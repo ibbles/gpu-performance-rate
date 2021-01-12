@@ -101,11 +101,8 @@ def write_box_value(
         x: int, y: int,
         width: int, height: int,
         title: str, value: float, image: typing.TextIO):
-    shade = (value / settings.color_range) * 255
-    if value > 0:
-        color = f"0, {shade}, 0"
-    else:
-        color = f"{-shade}, 0, 0"
+    color = settings.color_range(value)
+    color = f"{color[0]}, {color[1]}, {color[2]}"
     write_box_color(x, y, width, height, title, color, image)
 
 
