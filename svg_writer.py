@@ -6,6 +6,15 @@ import typing
 from settings import settings
 
 
+def write_image(state, filename):
+    image = Image(filename)
+    write_header(image)
+    write_x_axis(state, image)
+    write_y_axis(state, image)
+    write_boxes(state, image)
+    write_footer(image)
+
+
 class Image:
     def __init__(self, filename):
         self.file = io.open(filename, "w")
@@ -29,7 +38,6 @@ class Image:
 
     def __del__(self):
         self.file.close()
-        print("File closed.")
 
 
 def write_line(x1: int, y1: int, x2: int, y2: int, image: Image):
@@ -54,7 +62,7 @@ def write_text(
 
 
 def write_text_row(row: int, text: str, eid: str, image: typing.TextIO):
-    # A fuding to make the text appear centered on the row.
+    # A fudging to make the text appear centered on the row.
     text_height_fudge = 8
     x = settings.left_gap - 1
     y = settings.grid_top_gap + (row * settings.row_height) - text_height_fudge
@@ -99,11 +107,6 @@ def write_box_value(
     else:
         color = f"{-shade}, 0, 0"
     write_box_color(x, y, width, height, title, color, image)
-    # image.push(
-    #     f'<rect x="{x}" y="{y}" width="{width}" height="{height}" '
-    #     f'title="{title}" style="fill:rgb({shade})">')
-    # image.append(f'<title>{title}</title>')
-    # image.pop('</rect>')
 
 
 def write_box_grid(
@@ -142,8 +145,7 @@ def write_x_axis(state, image):
 
     text_height_fudge = 20
 
-    years = (state.start_date.year, state.end_date.year)
-    for year in range(years[0], years[1] + 1):
+    for year in state.years:
         column = state.annums[year].column
         x = settings.left_gap + (column * settings.column_width)
         write_line(
@@ -166,25 +168,14 @@ def write_x_axis(state, image):
         x -= (0.3 * text_height_fudge)
         color = gpu.id[:3] == "amd" and "100, 0, 0" or "0, 100, 0"
         write_color_line(x, y, x, last_row_y, color, image)
-        # write_color_line(x, y, x, last_row_y, "255, 0, 0", image)
 
 
 def write_y_axis(state, image):
     num_columns = state.gpus[-1].column + 1
     end_x = settings.left_gap + (num_columns * settings.column_width)
 
-    # g = state.gpus[0]
-    # width = settings.column_width
-    # height = settings.row_height
-    # x = settings.left_gap
-    # y = settings.grid_top_gap
-    # write_text(x, y, 0, "hi", "hi", "start", image)
-    # write_box_value(x, y, width, height, "hi", 10, image)
-    # write_box_value(x, y, 5, 5, "hi", 40, image)
-
     for i, gpu in enumerate(state.gpus):
         write_text_row(gpu.row, gpu.label, gpu.label, image)
-
         color = gpu.id[:3] == "amd" and "255, 230, 230" or "230, 255, 230"
         write_box_row(gpu.row, end_x, gpu.label, color, image)
 
@@ -207,10 +198,10 @@ def write_boxes(state, image):
         for new_index, new_gpu in enumerate(state.gpus[old_index + 1:]):
             column = new_gpu.column
             num_months = num_months_between(old_gpu.date, new_gpu.date)
-            rate = find_exponential_growth(
-                old_gpu.rating, new_gpu.rating, num_months / 12)
-            rate_percent = rate * 100
             num_years = num_months / 12
+            rate = find_exponential_growth(
+                old_gpu.rating, new_gpu.rating, num_years)
+            rate_percent = rate * 100
             title = (
                 f"{old_gpu.name} → {new_gpu.name}\n"
                 f"{old_gpu.rating} → {new_gpu.rating} = "
@@ -218,7 +209,6 @@ def write_boxes(state, image):
                 f"{num_years:.1f} years\n"
                 f"{rate_percent:.2f}% / year"
             )
-            # write_box(x, y, side, side, title, rate_percent, image)
             write_box_grid(row, column, title, rate_percent, image)
 
 
