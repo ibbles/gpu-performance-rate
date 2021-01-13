@@ -8,7 +8,7 @@ from settings import settings
 
 def write_image(state, filename):
     image = Image(filename)
-    write_header(image)
+    write_header(state, image)
     write_x_axis(state, image)
     write_y_axis(state, image)
     write_boxes(state, image)
@@ -209,12 +209,15 @@ def write_boxes(state, image):
             write_box_grid(row, column, title, rate_percent, image)
 
 
-def write_header(image: Image):
+def write_header(state, image: Image):
+    num_columns = state.gpus[-1].column + 1
+    width = settings.left_gap + (num_columns * settings.column_width)
+    height = settings.timeline_gap + (len(state.gpus) + 1) * settings.row_height
     image.append('<?xml version="1.0" standalone="no" ?>')
     image.push(
         f'<svg '
-        # f'width="{settings.image_width}" '
-        # f'height="{settings.image_height}" '
+        f'width="{width}" '
+        f'height="{height}" '
         'version="1.1" id="svgRoot" xmlns="http://www.w3.org/2000/svg">')
 
 
