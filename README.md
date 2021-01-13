@@ -96,3 +96,16 @@ This is expected for a series of GPUs, such as the 20 series from Nvidia, but we
 This is where we find most of the gray cells, meaning that two GPUs were released on the same month.
 
 ![alt text](./images/20s_and_5000.png)
+
+
+The brightest colors are for GPU pairs that released close to each other.
+This is because in these cases product segmentation dominate over growth-over-time.
+By that I mean that the slower GPU wasn't slower because it's somehow lower on the technology ladder, but because the manufacturer deliberately placed it on a lower tier due to cost, power usage, or size reasons.
+
+![alt text](./images/30_and_6000.png)
+
+The most interesting part, to me at least, is the lower-right corner of the grid.
+This is where the most recent GPUs are compared against the oldest in the data set.
+This is where we see the biggest effect of the hardware development, where a very large difference in performance is spread over a large amount of time, so the growth rate should be a good indicator of the true average growth rate.
+
+![alt text](./images/10_and_vega_and_2080_and_30_and_6000.png)
