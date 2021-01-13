@@ -89,3 +89,10 @@ Vertical lines does the same for the columns.
 # Results
 
 ![alt text](./gpus.svg "The full grid.")
+
+A few immediate observations.
+GPUs are released in clusters, where several GPUs are released within a short time span.
+This is expected for a series of GPUs, such as the 20 series from Nvidia, but we can see that the 20 Supers from Nvidia was released close to AMD's 5000 series, and Nvidias 30 series was released close to AMD's 6000 series.
+This is where we find most of the gray cells, meaning that two GPUs were released on the same month.
+
+![alt text](./images/20s_and_5000.png)
