@@ -50,12 +50,16 @@ Let's solve for `k` so we can compute it from the data we already have.
 
 -  `p_new = p_old*e^(k*t)`  Divide by `p_old`.
 -  `p_new/p_old = e^(k*t)`  Take the natural logarithm of both sides.
--  `ln(p_new/p_old) = ln(e^(k*t)`  By definition, ln(e^x) = x.
--  `ln(p_new/p_old) = k*t`  Swap sides.
--  `k*t = ln(p_new/p_old)`  Divide by t.
--  `k = ln(p_new/p_old) / t`  Done!
+-  `loge(p_new/p_old) = ln(e^(k*t)`  By definition, ln(e^x) = x.
+-  `loge(p_new/p_old) = k*t`  Swap sides.
+-  `k*t = loge(p_new/p_old)`  Divide by t.
+-  `k = loge(p_new/p_old) / t`  Done!
 
 <img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;k&space;=&space;\frac{ln(\frac{p_{new}}{p_{old}})}{t}" title="k = \frac{ln(\frac{p_{new}}{p_{old}})}{t}" />
+
+Notice that this is not the same as an annual interest rate of `k`% since interest is compounded periodically while growth rate is continuous.
+The [Wikipedia article](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29#Compound_interest) is a good read.
+
 
 Next we need a definition for "performance", one that is applicable over the entire range of GPUs we are comparing.
 I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) using the numbers from the 3840x2160 tests.
@@ -117,5 +121,35 @@ This is where we see the biggest effect of hardware development, where a very la
 ![alt text](./images/10_and_vega_and_2080_and_30_and_6000.png)
 
 The colors themselves doesn't say all that much since it's mostly just green, except for the 2080 Ti row where we see that the GPU holds up well against the 3070 and the 6800.
+Let's zoom in a bit add add the growth rate number.
 
 ![alt text](./images/lower_left_nums.png)
+
+If you bought a Nvidia 1080 on release and then upgraded to a 3070 when it released 4.4 years later then you saw a 15% per year growth rate.
+For comparison, the alternative definition of Moore's law of a doubling every 18 months corresponds to a growth rate of 46.21% per year since:
+
+- `p_old = 1` Any non-zero positive value would work.
+- `p_new = 2` Twice `p_old`, since we're looking for a doubling.
+- `t = 18/12` 18 month until doubled, and 12 months per year.
+- `k = loge(p_new/p_old)/t` Evaluates to 0.4621, to 46.21%.
+- `p_old*e^(k*t)` Sanity check, evaluates to 2. (always check your solutions)
+
+From the numbered cells we see that no upgrade reached that level of performance growth.
+Closest is the Vega 56 > 3090 upgrade, which gives a growth rate of 36%.
+This corresponds to a doubling every 1.9 years, or 23 months.
+
+Fron the equation for `k` that we've been using all this time:
+
+- `k = loge(p_new/p_old) / t` Multiply by `t`.
+- `t*k = loge(p_new/p_old)` Divide by `k`.
+- `t = loge(p_new/p_old) / k` Done!
+
+Given `k = 0.36` we want to find the rate of doubling, i.e., the time `t` to go from 1 to 2.
+
+- `t = loge(2/1) / 0.36` Evaluates to 1.9. Multiply by 12 to get 23 months.
+
+Some other interesting numbers:
+
+- 1080ti > 3090: Top-end to top-end, mind the price difference tho, two generations over: 23% per year.
+- 2080ti > 3090: Top-end to top end again, one generation: 20%.
+- 2080ti > 3070: -1%. Nvidia said 3070 would give 2080ti performance and at least according to Sweclockers' tests it sure did.
