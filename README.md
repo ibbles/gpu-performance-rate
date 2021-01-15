@@ -88,11 +88,15 @@ Vertical lines does the same for the columns.
 
 # Results
 
+I encourage you to open the full-size version of the grid and follow along with the discussion below.
+The grid cell pop-ups are useful to have.
+
 ![alt text](./gpus.svg "The full grid.")
 
-A few immediate observations.
+A few observations.
+
 GPUs are released in clusters, where several GPUs are released within a short time span.
-This is expected for a series of GPUs, such as the 20 series from Nvidia, but we can see that the 20 Supers from Nvidia was released close to AMD's 5000 series, and Nvidias 30 series was released close to AMD's 6000 series.
+This is expected for a series of GPUs, such as the 20 Super series from Nvidia, but we can see that the 20 Supers from Nvidia was released close to AMD's 5000 series, and Nvidias 30 series was released close to AMD's 6000 series.
 This is where we find most of the gray cells, meaning that two GPUs were released on the same month.
 
 ![alt text](./images/20s_and_5000.png)
@@ -100,12 +104,18 @@ This is where we find most of the gray cells, meaning that two GPUs were release
 
 The brightest colors are for GPU pairs that released close to each other.
 This is because in these cases product segmentation dominate over growth-over-time.
-By that I mean that the slower GPU wasn't slower because it's somehow lower on the technology ladder, but because the manufacturer deliberately placed it on a lower tier due to cost, power usage, or size reasons.
+By that I mean that the slower GPU wasn't slower because it's lower on the technology ladder, but because the manufacturer deliberately placed it on a lower tier for cost, power usage, or size reasons.
+In general, the grid cells at the top of the grid cell towers should probably be ignored.
+
 
 ![alt text](./images/30_and_6000.png)
 
 The most interesting part, to me at least, is the lower-right corner of the grid.
 This is where the most recent GPUs are compared against the oldest in the data set.
-This is where we see the biggest effect of the hardware development, where a very large difference in performance is spread over a large amount of time, so the growth rate should be a good indicator of the true average growth rate.
+This is where we see the biggest effect of hardware development, where a very large difference in performance is spread over a large amount of time, so the growth rate should be a good indicator of the true average growth rate.
 
 ![alt text](./images/10_and_vega_and_2080_and_30_and_6000.png)
+
+The colors themselves doesn't say all that much since it's mostly just green, except for the 2080 Ti row where we see that the GPU holds up well against the 3070 and the 6800.
+
+![alt text](./images/lower_left_nums.png)
