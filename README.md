@@ -125,6 +125,8 @@ Let's zoom in a bit add add the growth rate number.
 
 ![alt text](./images/lower_left_nums.png)
 
+[alternative colors](./images/lower_left_nums_light.png)
+
 If you bought a Nvidia 1080 on release and then upgraded to a 3070 when it released 4.4 years later then you saw a 15% per year growth rate.
 For comparison, the alternative definition of Moore's law of a doubling every 18 months corresponds to a growth rate of 46.21% per year since:
 
