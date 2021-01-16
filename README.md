@@ -163,3 +163,17 @@ Some other interesting numbers:
 - 1080ti > 3090: Top-end to top-end, mind the price difference tho, two generations over: 23% per year.
 - 2080ti > 3090: Top-end to top end again, one generation: 20%.
 - 2080ti > 3070: -1%. Nvidia said 3070 would give 2080ti performance and at least according to Sweclockers' tests it sure did.
+
+
+# Summary
+
+The exponential growth function `p_new = p_old*e^(k*t)` can be used to compute the average growth rate `k` for a pair of GPU with different release dates.
+We use GPU performance numbers from Sweclockers' Performance Index to compute the growth rate for each pair of GPUs in the data set.
+GPUs released close together in time is not suitable to such comparisons so focus was put on comparing the newest GPUs with the oldest in the data set.
+The annual growth rate from the 2018-2019 era GPUs to 2020 era GPUs is around 15-30%.
+
+
+# Future work
+
+- Test against other data sets.
+- Sort the GPUs on performance instead of release date.
