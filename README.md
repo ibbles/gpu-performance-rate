@@ -58,6 +58,8 @@ Let's solve for `k` so we can compute it from the data we already have.
 
 <img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;k&space;=&space;\frac{log_e(\frac{p_{new}}{p_{old}})}{t}" title="k = \frac{log_e(\frac{p_{new}}{p_{old}})}{t}" />
 
+This means that if we take any pair of GPU released at different times and plug the performance of the older GPU into `p_old`, the performance of the newer GPU into `p_new`, and the number of years between their respective release dates into `t` then the above formula will give us the annual performance growth rate.
+
 Notice that this is not the same as an annual interest rate of `k`% since interest is compounded periodically while growth rate is continuous.
 The [Wikipedia article](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29#Compound_interest) is a good read.
 
