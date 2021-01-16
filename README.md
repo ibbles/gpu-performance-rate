@@ -1,9 +1,9 @@
 # Motivation
 
 Evaluating GPU performance improvements over time is difficult.
-Changes in naming convention marget segmentation, new and different target customers, price fluctuations, inflation, new rendering techniques, and expanded feature sets and use cases make direct comparisons between generations and vendors difficult.
-Numerous comparisons in various different ways has been made by tech-focused blogs, hardware reviewers, YouTube personalities, and printed publications.
-This is text is ment to add to that pool of knowledge.
+Changes in naming convention market segmentation, new and different target customers, price fluctuations, inflation, new rendering techniques, and expanded feature sets and use cases make direct comparisons between generations and vendors difficult.
+Numerous comparisons in various different ways has been made by tech-focused blogs, hardware reviewers, YouTube personalities, and printed publications over the years.
+This is text is meant to add to that pool of knowledge.
 The intention is not to replace or even improve on all the other sources, only to complement them.
 
 The main question for this text is, how fast are GPUs getting faster?
@@ -11,18 +11,18 @@ The main question for this text is, how fast are GPUs getting faster?
 
 # Problem statement
 
-The famous More's Law state that the number of transistors that cost-effectively can be put in a chip doubles every year, later revised to eighteen months.
-Many take this to mean that the performance also doubles within the same about of time.
+The famous Moore's law state that the number of transistors that cost-effectively can be put in a chip doubles every year, later revised to every eighteen months.
+Some take this to mean that the performance also doubles within the same amount of time.
 While that's debatable, there is no question that the real-world performance of microchips has seen a tremendous development over the decades since their introduction in the early '60s.
 Exponential, in fact.
-The purpose of this text is to explore that exponential growth within the context of GPUs, or Graphics Processing Units.
+The purpose of this text is to explore that exponential growth within the context of Graphics Processing Units, or GPUs for short.
 
-In short, what has the recent growth rate of GPU performance been?
+In a nutshell, what has the recent growth rate for GPU performance been?
 
 
 # Method
 
-This analysis assumes a steady exponential performance growth rate according to the standard exponential function
+This analysis assumes a steady exponential performance growth rate according to the [standard exponential function](https://en.wikipedia.org/wiki/Exponential_growth#Basic_formula):
 
 <img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;f(t)&space;=&space;f(0)*e^{(k*t)}" title="f(t) = f(0)*e^{(k*t)}" />
 
@@ -33,7 +33,7 @@ where
 - `k` is the growth rate.
 - `t` is amount of time during which the exponential growth is occurring.
 
-Unfortunately for us, the GPU market is not a smooth performance curve with steady exponential growth, there is no well-defined `f(0)` here, and it's unclear what `t` should mean.
+Unfortunately for us, the GPU market is not on a smooth performance curve with steady exponential growth, there is no well-defined `f(0)` here, and it's unclear what `t` should mean.
 Instead we will take a pair-wise approach where the performance growth rate between two GPU with separate release dates is computed.
 We use the following variant of the exponential function:
 
@@ -50,13 +50,13 @@ Of these the only thing that's unknown is `k`, which is exactly the growth rate 
 Let's solve for `k` so we can compute it from the data we already have.
 
 -  `p_new = p_old*e^(k*t)`  Divide by `p_old`.
--  `p_new/p_old = e^(k*t)`  Take the natural logarithm of both sides.
--  `loge(p_new/p_old) = ln(e^(k*t)`  By definition, ln(e^x) = x.
+-  `p_new/p_old = e^(k*t)`  Take the natural logarithm, `loge`, of both sides.
+-  `loge(p_new/p_old) = ln(e^(k*t)`  By definition, `loge(e^x) = x`.
 -  `loge(p_new/p_old) = k*t`  Swap sides.
--  `k*t = loge(p_new/p_old)`  Divide by t.
+-  `k*t = loge(p_new/p_old)`  Divide by `t`.
 -  `k = loge(p_new/p_old) / t`  Done!
 
-<img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;k&space;=&space;\frac{ln(\frac{p_{new}}{p_{old}})}{t}" title="k = \frac{ln(\frac{p_{new}}{p_{old}})}{t}" />
+<img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;k&space;=&space;\frac{log_e(\frac{p_{new}}{p_{old}})}{t}" title="k = \frac{log_e(\frac{p_{new}}{p_{old}})}{t}" />
 
 Notice that this is not the same as an annual interest rate of `k`% since interest is compounded periodically while growth rate is continuous.
 The [Wikipedia article](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29#Compound_interest) is a good read.
