@@ -113,41 +113,42 @@ At the top of these towers is where we find most of the gray cells, meaning that
 ![alt text](./images/20s_and_5000.png)
 
 
-The brightest colors are for GPU pairs that released close to each other.
-This is because in these cases product segmentation dominate over growth-over-time.
-By that I mean that the slower GPU wasn't slower because it's lower on the technology ladder, but because the manufacturer deliberately placed it on a lower tier for cost, power usage, or size reasons.
-In general, the grid cells at the top of the grid cell towers should probably be ignored.
-
+The brightest colored cells are also for GPU pairs that released close to each other.
+This is because in these cases product segmentation dominate over growth-over-time effects.
+By that I mean that the slower GPU wasn't slower because it's lower on the technology ladder, but because the manufacturer deliberately placed it on a lower performance tier for cost, power usage, or size reasons.
+Also, the very short time between the releases means that the division by the small value `t` in the growth rate formula produces a very large resulting growth rate.
 
 ![alt text](./images/30_and_6000.png)
 
+In general, because of these two reasons, the grid cells at the top of the grid cell towers should probably be ignored.
+
 The most interesting part, to me at least, is the lower-right corner of the grid.
 This is where the most recent GPUs are compared against the oldest in the data set.
-This is where we see the biggest effect of hardware development, where a very large difference in performance is spread over a large amount of time, so the growth rate should be a good indicator of the true average growth rate.
+This is where we see the biggest effect of hardware development pgoress, where a very large difference in performance is spread over a large amount of time, so the growth rate should be a good indicator of the true average growth rate.
 
 ![alt text](./images/10_and_vega_and_2080_and_30_and_6000.png)
 
-The colors themselves doesn't say all that much since it's mostly just green, except for the 2080 Ti row where we see that the GPU holds up well against the 3070 and the 6800.
-Let's zoom in a bit add add the growth rate number.
+The colors themselves doesn't say all that much since it's mostly just green, except for the 2080 Ti row where we see that the old GPU holds up well against the newer 3070 and 6800.
+Let's zoom in a bit and add the growth rate number.
 
 ![alt text](./images/lower_left_nums.png)
 
 [alternative colors](./images/lower_left_nums_light.png)
 
 If you bought a Nvidia 1080 on release and then upgraded to a 3070 when it released 4.4 years later then you saw a 15% per year growth rate.
-For comparison, the alternative definition of Moore's law of a doubling every 18 months corresponds to a growth rate of 46.21% per year since:
+For comparison, the alternative definition of Moore's law with a doubling of performance every 18 months corresponds to a growth rate of 46.21% per year since:
 
 - `p_old = 1` Any non-zero positive value would work.
 - `p_new = 2` Twice `p_old`, since we're looking for a doubling.
-- `t = 18/12` 18 month until doubled, and 12 months per year.
-- `k = loge(p_new/p_old)/t` Evaluates to 0.4621, to 46.21%.
+- `t = 18 / 12` 18 month until doubled, and 12 months per year.
+- `k = loge(p_new/p_old) / t` Evaluates to 0.4621, or 46.21%.
 - `p_old*e^(k*t)` Sanity check, evaluates to 2. (always check your solutions)
 
 From the numbered cells we see that no upgrade reached that level of performance growth.
-Closest is the Vega 56 > 3090 upgrade, which gives a growth rate of 36%.
+Closest is the Vega 56 → RTX 3090 upgrade, which gives a growth rate of 36%.
 This corresponds to a doubling every 1.9 years, or 23 months.
 
-Fron the equation for `k` that we've been using all this time:
+From the equation for `k` that we've been using all this time:
 
 - `k = loge(p_new/p_old) / t` Multiply by `t`.
 - `t*k = loge(p_new/p_old)` Divide by `k`.
