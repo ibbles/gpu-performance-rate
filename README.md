@@ -145,7 +145,7 @@ This is where we see the biggest effect of hardware development progress, where 
 
 ![alt text](./images/10_and_vega_and_2080_and_30_and_6000.png)
 
-The colors themselves doesn't say all that much since it's mostly just green, except for the RTX 2080 Ti row where we see that the old GPU holds up well against the newer 3070 and 6800.
+The colors themselves doesn't say all that much since it's mostly just green, except for the RTX 2080 Ti row where we see that the old GPU holds up well against the newer RTX 3070 and RX 6800.
 Let's zoom in a bit and add the growth rate number.
 
 ![alt text](./images/lower_left_nums.png)
