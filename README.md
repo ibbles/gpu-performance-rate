@@ -63,6 +63,9 @@ This means that if we take any pair of GPU released at different times and plug 
 Notice that this is not the same as an annual interest rate of `k`% since interest is compounded periodically while growth rate is continuous.
 The [Wikipedia article](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29#Compound_interest) is a good read.
 
+Since we deal with continuous, as opposed to periodic, growth the time `t` does not need to be an integer value.
+If the newer GPU is release 6 month after the older then `t = 0.5`.
+In the numbers presented below all dates are truncated to months.
 
 Next we need a definition for "performance", one that is applicable over the entire range of GPUs we are comparing.
 I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) using the numbers from the 3840x2160 tests.
