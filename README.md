@@ -68,8 +68,9 @@ If the newer GPU was released 6 months after the older then `t = 6 / 12 = 0.5`.
 In the numbers presented below all dates are truncated to months.
 
 Next we need a definition for "performance", one that is applicable over the entire range of GPUs we are comparing.
-I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) ([Google translated version](https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https%3A%2F%2Fwww.sweclockers.com%2Fartikel%2F18402-sweclockers-prestandaindex-for-grafikkort)) using the numbers from the 3840x2160 tests.
+I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) ([Google translated version](https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https%3A%2F%2Fwww.sweclockers.com%2Fartikel%2F18402-sweclockers-prestandaindex-for-grafikkort)) using numbers from the 3840x2160 tests.
 A GPU's performance can't accurately be characterized by a single number, but let's work with what we have.
+Using another source for the performance numbers should be straightforward.
 
 Using the performance numbers from the hardware reviewer we create the Cartesian product of the GPU list and feed each pair into the growth rate computation formula.
 
