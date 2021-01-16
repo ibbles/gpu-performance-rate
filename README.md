@@ -60,15 +60,15 @@ Let's solve for `k` so we can compute it from the data we already have.
 
 This means that if we take any pair of GPU released at different times and plug the performance of the older GPU into `p_old`, the performance of the newer GPU into `p_new`, and the number of years between their respective release dates into `t` then the above formula will give us the annual performance growth rate.
 
-Notice that this is not the same as an annual interest rate of `k`% since interest is compounded periodically while growth rate is continuous.
+Notice that this is not the same as an annual interest rate of `k`% on a bank account since interest is compounded periodically while growth rate is continuous.
 The [Wikipedia article](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29#Compound_interest) is a good read.
 
 Since we deal with continuous, as opposed to periodic, growth the time `t` does not need to be an integer value.
-If the newer GPU is release 6 month after the older then `t = 0.5`.
+If the newer GPU was released 6 months after the older then `t = 6 / 12 = 0.5`.
 In the numbers presented below all dates are truncated to months.
 
 Next we need a definition for "performance", one that is applicable over the entire range of GPUs we are comparing.
-I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) using the numbers from the 3840x2160 tests.
+I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) ([Google translated version](https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https%3A%2F%2Fwww.sweclockers.com%2Fartikel%2F18402-sweclockers-prestandaindex-for-grafikkort) using the numbers from the 3840x2160 tests.
 A GPU's performance can't accurately be characterized by a single number, but let's work with what we have.
 
 Using the performance numbers from the hardware reviewer we create the Cartesian product of the GPU list and feed each pair into the growth rate computation formula.
