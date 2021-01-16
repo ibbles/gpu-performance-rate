@@ -67,6 +67,23 @@ Since we deal with continuous, as opposed to periodic, growth the time `t` does 
 If the newer GPU was released 6 months after the older then `t = 6 / 12 = 0.5`.
 In the numbers presented below all dates are truncated to months.
 
+Using the formula for the growth rate `k` we can compute the growth rate that corresponds to the alternative formulation of Moore's law that performance doubles every 18 months. Just set `p_new` twice that of `p_old` and `t` to 18 / 12.
+
+- `p_old = 1` Any non-zero positive value would work.
+- `p_new = 2` Twice `p_old`, since we're looking for a doubling.
+- `t = 18 / 12` 18 month until doubled and 12 months per year.
+- `k = loge(p_new/p_old) / t` Evaluates to 0.4621, or 46.21%.
+- `p_new = p_old*e^(k*t)` Sanity check, evaluates to 2. Always check your solutions.
+
+So a doubling after 18 months require a growth rate of 46%.
+
+For comparison purposes, we can also compute how much time a particular growth rate `k` would need to reach double performance:
+
+- `k = loge(p_new/p_old) / t` Multiply by `t`.
+- `t*k = loge(p_new/p_old)` Divide by `k`.
+- `t = loge(p_new/p_old) / k` Done!
+
+
 Next we need a definition for "performance", one that is applicable over the entire range of GPUs we are comparing.
 I don't have access to all of this hardware myself so I'm relying on performance numbers from independent reviewers, in this case [sweclockers.com](https://www.sweclockers.com/artikel/18402-sweclockers-prestandaindex-for-grafikkort) ([Google translated version](https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https%3A%2F%2Fwww.sweclockers.com%2Fartikel%2F18402-sweclockers-prestandaindex-for-grafikkort)) using numbers from the 3840x2160 tests.
 A GPU's performance can't accurately be characterized by a single number, but let's work with what we have.
@@ -128,35 +145,19 @@ This is where we see the biggest effect of hardware development pgoress, where a
 
 ![alt text](./images/10_and_vega_and_2080_and_30_and_6000.png)
 
-The colors themselves doesn't say all that much since it's mostly just green, except for the 2080 Ti row where we see that the old GPU holds up well against the newer 3070 and 6800.
+The colors themselves doesn't say all that much since it's mostly just green, except for the RTX 2080 Ti row where we see that the old GPU holds up well against the newer 3070 and 6800.
 Let's zoom in a bit and add the growth rate number.
 
 ![alt text](./images/lower_left_nums.png)
 
 [alternative colors](./images/lower_left_nums_light.png)
 
-If you bought a Nvidia 1080 on release and then upgraded to a 3070 when it released 4.4 years later then you saw a 15% per year growth rate.
-For comparison, the alternative definition of Moore's law with a doubling of performance every 18 months corresponds to a growth rate of 46.21% per year since:
-
-- `p_old = 1` Any non-zero positive value would work.
-- `p_new = 2` Twice `p_old`, since we're looking for a doubling.
-- `t = 18 / 12` 18 month until doubled, and 12 months per year.
-- `k = loge(p_new/p_old) / t` Evaluates to 0.4621, or 46.21%.
-- `p_old*e^(k*t)` Sanity check, evaluates to 2. (always check your solutions)
+If you bought a GTX 1080 on release and then upgraded to a RTX 3070 when it released 4.4 years later then you saw a 15% per year growth rate.
+For comparison, remember that the alternative definition of Moore's law with a doubling of performance every 18 months corresponds to a growth rate of 46.21% per year.
 
 From the numbered cells we see that no upgrade reached that level of performance growth.
 Closest is the Vega 56 → RTX 3090 upgrade, which gives a growth rate of 36%.
 This corresponds to a doubling every 1.9 years, or 23 months.
-
-From the equation for `k` that we've been using all this time:
-
-- `k = loge(p_new/p_old) / t` Multiply by `t`.
-- `t*k = loge(p_new/p_old)` Divide by `k`.
-- `t = loge(p_new/p_old) / k` Done!
-
-Given `k = 0.36` we want to find the rate of doubling, i.e., the time `t` to go from 1 to 2.
-
-- `t = loge(2/1) / 0.36` Evaluates to 1.9. Multiply by 12 to get 23 months.
 
 Some other interesting numbers:
 
