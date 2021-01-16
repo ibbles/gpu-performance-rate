@@ -77,18 +77,18 @@ Using the performance numbers from the hardware reviewer we create the Cartesian
 
 # Presentation
 
-With a formula to compute the growth rate between two GPUs and a data set of GPUs to feed to the computation the next step is a way to present the results.
+With a formula to compute the growth rate between two GPUs and a data set of GPUs to feed into the computation the next step is a way to present the results.
 
-[gpus.svg](./gpus.svg) (best viewed in raw mode) is an image containing a grid or colored boxes.
+[gpus.svg](./gpus.svg) (best viewed in raw mode) is an image containing a grid of colored boxes.
 The X axis, walking along columns in the grid, is a time line and each GPU in the data set is placed on that timeline.
 The Y axis, walking down the rows of the grid, is a simple listing of the same GPUs in the same order.
 The cells of the grid corresponds to a pair of GPUs, where the GPU on that row is the older GPU and the GPU on that column is the newer GPU.
 Notice that the grid is roughly lower-triangular.
-This is because we only compute growth rates from old-to-new GPUs, not from new-to-old, and the upper-left corner of the grid represents new-to-old pairs.
+This is because we only compute growth rates for old-to-new GPU pairs, not from new-to-old, and the upper-left corner of the grid represents new-to-old pairs.
 The columns on the right side of the grid contains many filled cells because those columns belong to the newest GPUs, and the newest GPUs has the highest number of older GPUs to compare against.
 
 The filled cells are color coded based on the growth rate.
-Green means that the newer GPU is faster than the old one, and red means that the newer GPU is slower.
+Green means that the newer GPU in the pair is faster than the old one, and red means that the newer GPU is slower.
 A brighter color means a larger, in absolute value, growth rate so near black means almost no change in performance between the two GPUs.
 Gray boxes indicate that the two GPUs was released on the same month, which is a singularity in the growth rate computation since the dates are at the month resolution.
 Hovering the cursor over a filled cell reveal the names of the two GPUs, their respective performance numbers, the change in performance, the number of years between the two GPUs' release dates, and the computed growth rate.
@@ -106,9 +106,9 @@ The grid cell pop-ups are useful to have.
 
 A few observations.
 
-GPUs are released in clusters, where several GPUs are released within a short time span.
-This is expected for a series of GPUs, such as the 20 Super series from Nvidia, but we can see that the 20 Supers from Nvidia was released close to AMD's 5000 series, and Nvidias 30 series was released close to AMD's 6000 series.
-This is where we find most of the gray cells, meaning that two GPUs were released on the same month.
+GPUs are released in clusters, as seen by the separate towers in the grid, where several GPUs are released within a short time span.
+This is expected for a series of GPUs, such as the 20 Super series from Nvidia released in mid 2019, but we can see that the 20 Supers was released close to AMD's 5000 series; and Nvidias 30 series was released close to AMD's 6000 series in 2020.
+At the top of these towers is where we find most of the gray cells, meaning that two GPUs were released on the same month.
 
 ![alt text](./images/20s_and_5000.png)
 
