@@ -184,6 +184,7 @@ def find_exponential_growth(v_i: float, v_j: float, dt: float) -> float:
     return math.log(v_j / v_i) / dt
 
 
+# TODO: Consider using number of days instead of number of months.
 def num_months_between(old, new):
     """Return the number of month transitions between the two dates."""
     return (new.year - old.year) * 12 + (new.month - old.month)
