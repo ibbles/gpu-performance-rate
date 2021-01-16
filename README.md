@@ -1,9 +1,10 @@
 # Motivation
 
 Evaluating GPU performance improvements over time is difficult.
-Changes in naming convention, new and different target customers, price fluctuations, inflation, new rendering techniques, and expanded feature sets and use cases make direct comparisons difficult.
-Many comparisons in many different ways has been made, and this is an attempt to do it yet another way.
-The intention is not to replace or even improve on all the other comparisons, it's only to complement them.
+Changes in naming convention marget segmentation, new and different target customers, price fluctuations, inflation, new rendering techniques, and expanded feature sets and use cases make direct comparisons between generations and vendors difficult.
+Numerous comparisons in various different ways has been made by tech-focused blogs, hardware reviewers, YouTube personalities, and printed publications.
+This is text is ment to add to that pool of knowledge.
+The intention is not to replace or even improve on all the other sources, only to complement them.
 
 The main question for this text is, how fast are GPUs getting faster?
 
