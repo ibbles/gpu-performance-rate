@@ -51,7 +51,7 @@ Let's solve for `k` so we can compute it from the data we already have.
 
 -  `p_new = p_old*e^(k*t)`  Divide by `p_old`.
 -  `p_new/p_old = e^(k*t)`  Take the natural logarithm, `loge`, of both sides.
--  `loge(p_new/p_old) = ln(e^(k*t)`  By definition, `loge(e^x) = x`.
+-  `loge(p_new/p_old) = loge(e^(k*t)`  By definition, `loge(e^x) = x`.
 -  `loge(p_new/p_old) = k*t`  Swap sides.
 -  `k*t = loge(p_new/p_old)`  Divide by `t`.
 -  `k = loge(p_new/p_old) / t`  Done!
@@ -97,7 +97,7 @@ Using the performance numbers from the hardware reviewer we create the Cartesian
 With a formula to compute the growth rate between two GPUs and a data set of GPUs to feed into the computation the next step is a way to present the results.
 
 [gpus.svg](./gpus.svg) (best viewed in raw mode) is an image containing a grid of colored boxes.
-The X axis, walking along columns in the grid, is a time line and each GPU in the data set is placed on that timeline.
+The X axis, walking over columns in the grid, is a time line and each GPU in the data set is placed on that timeline.
 The Y axis, walking down the rows of the grid, is a simple listing of the same GPUs in the same order.
 The cells of the grid corresponds to a pair of GPUs, where the GPU on that row is the older GPU and the GPU on that column is the newer GPU.
 Notice that the grid is roughly lower-triangular.
@@ -162,8 +162,8 @@ This corresponds to a doubling every 1.9 years, or 23 months.
 Some other interesting numbers:
 
 - GTX 1080 Ti > RTX 3090: Top-end to top-end, mind the price difference tho, two generations over: 23% per year.
-- RTX s080 Ti > RTX 3090: Top-end to top end again, one generation: 20%.
-- RTX 2080 Ti > RTX 3070: -1%. Nvidia said 3070 would give RTX 2080 Ti level performance and at least according to Sweclockers' tests it sure did.
+- RTX 2080 Ti > RTX 3090: Top-end to top-end again, one generation: 20%.
+- RTX 2080 Ti > RTX 3070: -1%. Nvidia said the 3070 would give RTX 2080 Ti level performance and at least according to Sweclockers' tests it sure did.
 
 
 # Summary
