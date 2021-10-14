@@ -135,6 +135,13 @@ gpus = [
         "rating": 90
     },
     {
+		"name": "AMD Radeon 6600 XT",
+		"id": "amd_radeon_6600_xt",
+		"label": "6600xt",
+		"date": datetime.date(2021, 8, 10),
+		"rating": 87
+    },
+    {
         "name": "Nvidia Geforce RTX 2070",
         "id": "nvidia_geforce_rtx_2070",
         "label": "2070",

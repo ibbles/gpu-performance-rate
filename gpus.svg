@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
-<svg width="2350" height="900" version="1.1" id="svgRoot" xmlns="http://www.w3.org/2000/svg">
-  <line x1="100" y1="120" x2="2350" y2="120" style="stroke:rgb(99,99,99);stroke-width:0.5" />
+<svg width="2410" height="930" version="1.1" id="svgRoot" xmlns="http://www.w3.org/2000/svg">
+  <line x1="100" y1="120" x2="2410" y2="120" style="stroke:rgb(99,99,99);stroke-width:0.5" />
   <line x1="100" y1="120" x2="100" y2="99.0" style="stroke:rgb(99,99,99);stroke-width:0.5" />
   <text text-anchor="middle" x="100" y="140" transform="rotate(0, 100, 140)" fill="rgb(0,0,0)" id="tick-2016">2016</text>
   <line x1="460" y1="120" x2="460" y2="99.0" style="stroke:rgb(99,99,99);stroke-width:0.5" />
@@ -14,156 +14,162 @@
   <line x1="2140" y1="120" x2="2140" y2="99.0" style="stroke:rgb(99,99,99);stroke-width:0.5" />
   <text text-anchor="middle" x="2140" y="140" transform="rotate(0, 2140, 140)" fill="rgb(0,0,0)" id="tick-2021">2021</text>
   <text text-anchor="start" x="240" y="90" transform="rotate(-90, 240, 90)" fill="rgb(0,0,0)" id="1080">1080</text>
-  <line x1="234.0" y1="90" x2="234.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="234.0" y1="90" x2="234.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="540" y="90" transform="rotate(-90, 540, 90)" fill="rgb(0,0,0)" id="1080ti">1080ti</text>
-  <line x1="534.0" y1="90" x2="534.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="534.0" y1="90" x2="534.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="690" y="90" transform="rotate(-90, 690, 90)" fill="rgb(0,0,0)" id="vega64">vega64</text>
-  <line x1="684.0" y1="90" x2="684.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="684.0" y1="90" x2="684.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="720" y="90" transform="rotate(-90, 720, 90)" fill="rgb(0,0,0)" id="vega56">vega56</text>
-  <line x1="714.0" y1="90" x2="714.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="714.0" y1="90" x2="714.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1110" y="90" transform="rotate(-90, 1110, 90)" fill="rgb(0,0,0)" id="2080">2080</text>
-  <line x1="1104.0" y1="90" x2="1104.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1104.0" y1="90" x2="1104.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1140" y="90" transform="rotate(-90, 1140, 90)" fill="rgb(0,0,0)" id="2080ti">2080ti</text>
-  <line x1="1134.0" y1="90" x2="1134.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1134.0" y1="90" x2="1134.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1170" y="90" transform="rotate(-90, 1170, 90)" fill="rgb(0,0,0)" id="2070">2070</text>
-  <line x1="1164.0" y1="90" x2="1164.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1164.0" y1="90" x2="1164.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1260" y="90" transform="rotate(-90, 1260, 90)" fill="rgb(0,0,0)" id="2060">2060</text>
-  <line x1="1254.0" y1="90" x2="1254.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1254.0" y1="90" x2="1254.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1290" y="90" transform="rotate(-90, 1290, 90)" fill="rgb(0,0,0)" id="VII">VII</text>
-  <line x1="1284.0" y1="90" x2="1284.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="1284.0" y1="90" x2="1284.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1410" y="90" transform="rotate(-90, 1410, 90)" fill="rgb(0,0,0)" id="2080s">2080s</text>
-  <line x1="1404.0" y1="90" x2="1404.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1404.0" y1="90" x2="1404.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1440" y="90" transform="rotate(-90, 1440, 90)" fill="rgb(0,0,0)" id="5700xt">5700xt</text>
-  <line x1="1434.0" y1="90" x2="1434.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="1434.0" y1="90" x2="1434.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1470" y="90" transform="rotate(-90, 1470, 90)" fill="rgb(0,0,0)" id="5700">5700</text>
-  <line x1="1464.0" y1="90" x2="1464.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="1464.0" y1="90" x2="1464.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1500" y="90" transform="rotate(-90, 1500, 90)" fill="rgb(0,0,0)" id="2070s">2070s</text>
-  <line x1="1494.0" y1="90" x2="1494.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1494.0" y1="90" x2="1494.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1530" y="90" transform="rotate(-90, 1530, 90)" fill="rgb(0,0,0)" id="2060s">2060s</text>
-  <line x1="1524.0" y1="90" x2="1524.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1524.0" y1="90" x2="1524.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1950" y="90" transform="rotate(-90, 1950, 90)" fill="rgb(0,0,0)" id="3080">3080</text>
-  <line x1="1944.0" y1="90" x2="1944.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1944.0" y1="90" x2="1944.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="1980" y="90" transform="rotate(-90, 1980, 90)" fill="rgb(0,0,0)" id="3090">3090</text>
-  <line x1="1974.0" y1="90" x2="1974.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="1974.0" y1="90" x2="1974.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2010" y="90" transform="rotate(-90, 2010, 90)" fill="rgb(0,0,0)" id="3070">3070</text>
-  <line x1="2004.0" y1="90" x2="2004.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="2004.0" y1="90" x2="2004.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2040" y="90" transform="rotate(-90, 2040, 90)" fill="rgb(0,0,0)" id="6800xt">6800xt</text>
-  <line x1="2034.0" y1="90" x2="2034.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="2034.0" y1="90" x2="2034.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2070" y="90" transform="rotate(-90, 2070, 90)" fill="rgb(0,0,0)" id="6800">6800</text>
-  <line x1="2064.0" y1="90" x2="2064.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="2064.0" y1="90" x2="2064.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2100" y="90" transform="rotate(-90, 2100, 90)" fill="rgb(0,0,0)" id="3060ti">3060ti</text>
-  <line x1="2094.0" y1="90" x2="2094.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="2094.0" y1="90" x2="2094.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2130" y="90" transform="rotate(-90, 2130, 90)" fill="rgb(0,0,0)" id="6900xt">6900xt</text>
-  <line x1="2124.0" y1="90" x2="2124.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="2124.0" y1="90" x2="2124.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2190" y="90" transform="rotate(-90, 2190, 90)" fill="rgb(0,0,0)" id="3060ti">3060ti</text>
-  <line x1="2184.0" y1="90" x2="2184.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="2184.0" y1="90" x2="2184.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2220" y="90" transform="rotate(-90, 2220, 90)" fill="rgb(0,0,0)" id="6700xt">6700xt</text>
-  <line x1="2214.0" y1="90" x2="2214.0" y2="900" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <line x1="2214.0" y1="90" x2="2214.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2310" y="90" transform="rotate(-90, 2310, 90)" fill="rgb(0,0,0)" id="3080ti">3080ti</text>
-  <line x1="2304.0" y1="90" x2="2304.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <line x1="2304.0" y1="90" x2="2304.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
   <text text-anchor="start" x="2340" y="90" transform="rotate(-90, 2340, 90)" fill="rgb(0,0,0)" id="3070ti">3070ti</text>
-  <line x1="2334.0" y1="90" x2="2334.0" y2="900" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
-  <text text-anchor="end" x="99" y="892" transform="rotate(0, 99, 892)" fill="rgb(0,0,0)" id="1080">1080</text>
-  <rect x="100" y="870" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <line x1="2334.0" y1="90" x2="2334.0" y2="930" style="stroke:rgb(0, 100, 0);stroke-width:0.5" />
+  <text text-anchor="start" x="2400" y="90" transform="rotate(-90, 2400, 90)" fill="rgb(0,0,0)" id="6600xt">6600xt</text>
+  <line x1="2394.0" y1="90" x2="2394.0" y2="930" style="stroke:rgb(100, 0, 0);stroke-width:0.5" />
+  <text text-anchor="end" x="99" y="922" transform="rotate(0, 99, 922)" fill="rgb(0,0,0)" id="1080">1080</text>
+  <rect x="100" y="900" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>1080</title>
   </rect>
-  <text text-anchor="end" x="99" y="862" transform="rotate(0, 99, 862)" fill="rgb(0,0,0)" id="1080ti">1080ti</text>
-  <rect x="100" y="840" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="892" transform="rotate(0, 99, 892)" fill="rgb(0,0,0)" id="1080ti">1080ti</text>
+  <rect x="100" y="870" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>1080ti</title>
   </rect>
-  <text text-anchor="end" x="99" y="832" transform="rotate(0, 99, 832)" fill="rgb(0,0,0)" id="vega64">vega64</text>
-  <rect x="100" y="810" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="862" transform="rotate(0, 99, 862)" fill="rgb(0,0,0)" id="vega64">vega64</text>
+  <rect x="100" y="840" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>vega64</title>
   </rect>
-  <text text-anchor="end" x="99" y="802" transform="rotate(0, 99, 802)" fill="rgb(0,0,0)" id="vega56">vega56</text>
-  <rect x="100" y="780" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="832" transform="rotate(0, 99, 832)" fill="rgb(0,0,0)" id="vega56">vega56</text>
+  <rect x="100" y="810" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>vega56</title>
   </rect>
-  <text text-anchor="end" x="99" y="772" transform="rotate(0, 99, 772)" fill="rgb(0,0,0)" id="2080">2080</text>
-  <rect x="100" y="750" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="802" transform="rotate(0, 99, 802)" fill="rgb(0,0,0)" id="2080">2080</text>
+  <rect x="100" y="780" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2080</title>
   </rect>
-  <text text-anchor="end" x="99" y="742" transform="rotate(0, 99, 742)" fill="rgb(0,0,0)" id="2080ti">2080ti</text>
-  <rect x="100" y="720" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="772" transform="rotate(0, 99, 772)" fill="rgb(0,0,0)" id="2080ti">2080ti</text>
+  <rect x="100" y="750" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2080ti</title>
   </rect>
-  <text text-anchor="end" x="99" y="712" transform="rotate(0, 99, 712)" fill="rgb(0,0,0)" id="2070">2070</text>
-  <rect x="100" y="690" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="742" transform="rotate(0, 99, 742)" fill="rgb(0,0,0)" id="2070">2070</text>
+  <rect x="100" y="720" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2070</title>
   </rect>
-  <text text-anchor="end" x="99" y="682" transform="rotate(0, 99, 682)" fill="rgb(0,0,0)" id="2060">2060</text>
-  <rect x="100" y="660" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="712" transform="rotate(0, 99, 712)" fill="rgb(0,0,0)" id="2060">2060</text>
+  <rect x="100" y="690" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2060</title>
   </rect>
-  <text text-anchor="end" x="99" y="652" transform="rotate(0, 99, 652)" fill="rgb(0,0,0)" id="VII">VII</text>
-  <rect x="100" y="630" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="682" transform="rotate(0, 99, 682)" fill="rgb(0,0,0)" id="VII">VII</text>
+  <rect x="100" y="660" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>VII</title>
   </rect>
-  <text text-anchor="end" x="99" y="622" transform="rotate(0, 99, 622)" fill="rgb(0,0,0)" id="2080s">2080s</text>
-  <rect x="100" y="600" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="652" transform="rotate(0, 99, 652)" fill="rgb(0,0,0)" id="2080s">2080s</text>
+  <rect x="100" y="630" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2080s</title>
   </rect>
-  <text text-anchor="end" x="99" y="592" transform="rotate(0, 99, 592)" fill="rgb(0,0,0)" id="5700xt">5700xt</text>
-  <rect x="100" y="570" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="622" transform="rotate(0, 99, 622)" fill="rgb(0,0,0)" id="5700xt">5700xt</text>
+  <rect x="100" y="600" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>5700xt</title>
   </rect>
-  <text text-anchor="end" x="99" y="562" transform="rotate(0, 99, 562)" fill="rgb(0,0,0)" id="5700">5700</text>
-  <rect x="100" y="540" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="592" transform="rotate(0, 99, 592)" fill="rgb(0,0,0)" id="5700">5700</text>
+  <rect x="100" y="570" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>5700</title>
   </rect>
-  <text text-anchor="end" x="99" y="532" transform="rotate(0, 99, 532)" fill="rgb(0,0,0)" id="2070s">2070s</text>
-  <rect x="100" y="510" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="562" transform="rotate(0, 99, 562)" fill="rgb(0,0,0)" id="2070s">2070s</text>
+  <rect x="100" y="540" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2070s</title>
   </rect>
-  <text text-anchor="end" x="99" y="502" transform="rotate(0, 99, 502)" fill="rgb(0,0,0)" id="2060s">2060s</text>
-  <rect x="100" y="480" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="532" transform="rotate(0, 99, 532)" fill="rgb(0,0,0)" id="2060s">2060s</text>
+  <rect x="100" y="510" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>2060s</title>
   </rect>
-  <text text-anchor="end" x="99" y="472" transform="rotate(0, 99, 472)" fill="rgb(0,0,0)" id="3080">3080</text>
-  <rect x="100" y="450" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="502" transform="rotate(0, 99, 502)" fill="rgb(0,0,0)" id="3080">3080</text>
+  <rect x="100" y="480" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3080</title>
   </rect>
-  <text text-anchor="end" x="99" y="442" transform="rotate(0, 99, 442)" fill="rgb(0,0,0)" id="3090">3090</text>
-  <rect x="100" y="420" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="472" transform="rotate(0, 99, 472)" fill="rgb(0,0,0)" id="3090">3090</text>
+  <rect x="100" y="450" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3090</title>
   </rect>
-  <text text-anchor="end" x="99" y="412" transform="rotate(0, 99, 412)" fill="rgb(0,0,0)" id="3070">3070</text>
-  <rect x="100" y="390" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="442" transform="rotate(0, 99, 442)" fill="rgb(0,0,0)" id="3070">3070</text>
+  <rect x="100" y="420" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3070</title>
   </rect>
-  <text text-anchor="end" x="99" y="382" transform="rotate(0, 99, 382)" fill="rgb(0,0,0)" id="6800xt">6800xt</text>
-  <rect x="100" y="360" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="412" transform="rotate(0, 99, 412)" fill="rgb(0,0,0)" id="6800xt">6800xt</text>
+  <rect x="100" y="390" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>6800xt</title>
   </rect>
-  <text text-anchor="end" x="99" y="352" transform="rotate(0, 99, 352)" fill="rgb(0,0,0)" id="6800">6800</text>
-  <rect x="100" y="330" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="382" transform="rotate(0, 99, 382)" fill="rgb(0,0,0)" id="6800">6800</text>
+  <rect x="100" y="360" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>6800</title>
   </rect>
-  <text text-anchor="end" x="99" y="322" transform="rotate(0, 99, 322)" fill="rgb(0,0,0)" id="3060ti">3060ti</text>
-  <rect x="100" y="300" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="352" transform="rotate(0, 99, 352)" fill="rgb(0,0,0)" id="3060ti">3060ti</text>
+  <rect x="100" y="330" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3060ti</title>
   </rect>
-  <text text-anchor="end" x="99" y="292" transform="rotate(0, 99, 292)" fill="rgb(0,0,0)" id="6900xt">6900xt</text>
-  <rect x="100" y="270" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="322" transform="rotate(0, 99, 322)" fill="rgb(0,0,0)" id="6900xt">6900xt</text>
+  <rect x="100" y="300" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>6900xt</title>
   </rect>
-  <text text-anchor="end" x="99" y="262" transform="rotate(0, 99, 262)" fill="rgb(0,0,0)" id="3060ti">3060ti</text>
-  <rect x="100" y="240" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="292" transform="rotate(0, 99, 292)" fill="rgb(0,0,0)" id="3060ti">3060ti</text>
+  <rect x="100" y="270" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3060ti</title>
   </rect>
-  <text text-anchor="end" x="99" y="232" transform="rotate(0, 99, 232)" fill="rgb(0,0,0)" id="6700xt">6700xt</text>
-  <rect x="100" y="210" width="2250" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+  <text text-anchor="end" x="99" y="262" transform="rotate(0, 99, 262)" fill="rgb(0,0,0)" id="6700xt">6700xt</text>
+  <rect x="100" y="240" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
     <title>6700xt</title>
   </rect>
-  <text text-anchor="end" x="99" y="202" transform="rotate(0, 99, 202)" fill="rgb(0,0,0)" id="3080ti">3080ti</text>
-  <rect x="100" y="180" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="232" transform="rotate(0, 99, 232)" fill="rgb(0,0,0)" id="3080ti">3080ti</text>
+  <rect x="100" y="210" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3080ti</title>
   </rect>
-  <text text-anchor="end" x="99" y="172" transform="rotate(0, 99, 172)" fill="rgb(0,0,0)" id="3070ti">3070ti</text>
-  <rect x="100" y="150" width="2250" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
+  <text text-anchor="end" x="99" y="202" transform="rotate(0, 99, 202)" fill="rgb(0,0,0)" id="3070ti">3070ti</text>
+  <rect x="100" y="180" width="2310" height="30" fill-opacity="0.5" fill="rgb(230, 255, 230)">
     <title>3070ti</title>
   </rect>
-  <rect x="523.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce GTX 1080 Ti
+  <text text-anchor="end" x="99" y="172" transform="rotate(0, 99, 172)" fill="rgb(0,0,0)" id="6600xt">6600xt</text>
+  <rect x="100" y="150" width="2310" height="30" fill-opacity="0.5" fill="rgb(255, 230, 230)">
+    <title>6600xt</title>
+  </rect>
+  <rect x="523.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce GTX 1080 Ti
 71 → 94 = 23 increase
 0.8 years
 33.67% / year" style="fill:rgb(0.0, 164.9897532470787, 0.0)">
@@ -172,7 +178,7 @@
 0.8 years
 33.67% / year</title>
   </rect>
-  <rect x="673.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX Vega 64
+  <rect x="673.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX Vega 64
 71 → 77 = 6 increase
 1.2 years
 6.49% / year" style="fill:rgb(0.0, 85.39633373133177, 0.0)">
@@ -181,7 +187,7 @@
 1.2 years
 6.49% / year</title>
   </rect>
-  <rect x="703.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX Vega 56
+  <rect x="703.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX Vega 56
 71 → 68 = -3 increase
 1.2 years
 -3.45% / year" style="fill:rgb(66.35256775622611, 0.0, 0.0)">
@@ -190,7 +196,7 @@
 1.2 years
 -3.45% / year</title>
   </rect>
-  <rect x="1093.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 2080
+  <rect x="1093.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 2080
 71 → 110 = 39 increase
 2.3 years
 18.76% / year" style="fill:rgb(0.0, 130.5749785433335, 0.0)">
@@ -199,7 +205,7 @@
 2.3 years
 18.76% / year</title>
   </rect>
-  <rect x="1123.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 2080 Ti
+  <rect x="1123.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 2080 Ti
 71 → 139 = 68 increase
 2.3 years
 28.79% / year" style="fill:rgb(0.0, 154.96867832411252, 0.0)">
@@ -208,7 +214,7 @@
 2.3 years
 28.79% / year</title>
   </rect>
-  <rect x="1153.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2070
+  <rect x="1153.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2070
 71 → 86 = 15 increase
 2.4 years
 7.93% / year" style="fill:rgb(0.0, 92.52791963472252, 0.0)">
@@ -217,7 +223,7 @@
 2.4 years
 7.93% / year</title>
   </rect>
-  <rect x="1243.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2060
+  <rect x="1243.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2060
 71 → 60 = -11 increase
 2.7 years
 -6.31% / year" style="fill:rgb(84.45449740346169, 0.0, 0.0)">
@@ -226,7 +232,7 @@
 2.7 years
 -6.31% / year</title>
   </rect>
-  <rect x="1273.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon VII
+  <rect x="1273.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon VII
 71 → 100 = 29 increase
 2.8 years
 12.45% / year" style="fill:rgb(0.0, 110.83231836718971, 0.0)">
@@ -235,7 +241,7 @@
 2.8 years
 12.45% / year</title>
   </rect>
-  <rect x="1393.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 2080 Super
 71 → 116 = 45 increase
 3.1 years
 15.92% / year" style="fill:rgb(0.0, 122.27364306604953, 0.0)">
@@ -244,7 +250,7 @@
 3.1 years
 15.92% / year</title>
   </rect>
-  <rect x="1423.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX 5700 XT
 71 → 90 = 19 increase
 3.2 years
 7.49% / year" style="fill:rgb(0.0, 90.42607684581364, 0.0)">
@@ -253,7 +259,7 @@
 3.2 years
 7.49% / year</title>
   </rect>
-  <rect x="1453.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX 5700
+  <rect x="1453.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX 5700
 71 → 80 = 9 increase
 3.2 years
 3.77% / year" style="fill:rgb(0.0, 68.71056031588083, 0.0)">
@@ -262,7 +268,7 @@
 3.2 years
 3.77% / year</title>
   </rect>
-  <rect x="1483.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2070 Super
 71 → 100 = 29 increase
 3.2 years
 10.82% / year" style="fill:rgb(0.0, 104.75109104925069, 0.0)">
@@ -271,7 +277,7 @@
 3.2 years
 10.82% / year</title>
   </rect>
-  <rect x="1513.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforce RTX 2060 Super
 71 → 81 = 10 increase
 3.2 years
 4.16% / year" style="fill:rgb(0.0, 71.48664350969186, 0.0)">
@@ -280,7 +286,7 @@
 3.2 years
 4.16% / year</title>
   </rect>
-  <rect x="1933.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3080
 71 → 187 = 116 increase
 4.3 years
 22.35% / year" style="fill:rgb(0.0, 140.03558472907102, 0.0)">
@@ -289,7 +295,7 @@
 4.3 years
 22.35% / year</title>
   </rect>
-  <rect x="1963.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3090
 71 → 209 = 138 increase
 4.3 years
 24.92% / year" style="fill:rgb(0.0, 146.25988949735952, 0.0)">
@@ -298,7 +304,7 @@
 4.3 years
 24.92% / year</title>
   </rect>
-  <rect x="1993.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3070
 71 → 136 = 65 increase
 4.4 years
 14.72% / year" style="fill:rgb(0.0, 118.48435110337398, 0.0)">
@@ -307,7 +313,7 @@
 4.4 years
 14.72% / year</title>
   </rect>
-  <rect x="2023.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeo RX 6800 XT
 71 → 169 = 98 increase
 4.5 years
 19.27% / year" style="fill:rgb(0.0, 131.97955392675408, 0.0)">
@@ -316,7 +322,7 @@
 4.5 years
 19.27% / year</title>
   </rect>
-  <rect x="2053.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeo RX 6800
+  <rect x="2053.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeo RX 6800
 71 → 149 = 78 increase
 4.5 years
 16.47% / year" style="fill:rgb(0.0, 123.94953666505526, 0.0)">
@@ -325,7 +331,7 @@
 4.5 years
 16.47% / year</title>
   </rect>
-  <rect x="2083.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3060 Ti
 71 → 117 = 46 increase
 4.6 years
 10.90% / year" style="fill:rgb(0.0, 105.07024222244091, 0.0)">
@@ -334,7 +340,7 @@
 4.6 years
 10.90% / year</title>
   </rect>
-  <rect x="2113.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeo RX 6900 XT
 71 → 184 = 113 increase
 4.6 years
 20.78% / year" style="fill:rgb(0.0, 136.00944497928384, 0.0)">
@@ -343,7 +349,7 @@
 4.6 years
 20.78% / year</title>
   </rect>
-  <rect x="2173.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3060
 71 → 92 = 21 increase
 4.8 years
 5.45% / year" style="fill:rgb(0.0, 79.66279408484898, 0.0)">
@@ -352,7 +358,7 @@
 4.8 years
 5.45% / year</title>
   </rect>
-  <rect x="2203.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon RX 6700 XT
 71 → 119 = 48 increase
 4.8 years
 10.69% / year" style="fill:rgb(0.0, 104.24389899555378, 0.0)">
@@ -361,7 +367,7 @@
 4.8 years
 10.69% / year</title>
   </rect>
-  <rect x="2293.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3080 Ti
 71 → 204 = 133 increase
 5.1 years
 20.76% / year" style="fill:rgb(0.0, 135.9734709696712, 0.0)">
@@ -370,7 +376,7 @@
 5.1 years
 20.76% / year</title>
   </rect>
-  <rect x="2323.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → Nvidia Geforece RTX 3070 Ti
 71 → 147 = 76 increase
 5.1 years
 14.32% / year" style="fill:rgb(0.0, 117.18560791438583, 0.0)">
@@ -379,7 +385,16 @@
 5.1 years
 14.32% / year</title>
   </rect>
-  <rect x="673.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX Vega 64
+  <rect x="2383.0" y="903.0" width="24.0" height="24.0" title="Nvidia Geforece GTX 1080 → AMD Radeon 6600 XT
+71 → 87 = 16 increase
+5.2 years
+3.87% / year" style="fill:rgb(0.0, 69.44965343629953, 0.0)">
+    <title>Nvidia Geforece GTX 1080 → AMD Radeon 6600 XT
+71 → 87 = 16 increase
+5.2 years
+3.87% / year</title>
+  </rect>
+  <rect x="673.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX Vega 64
 94 → 77 = -17 increase
 0.4 years
 -47.88% / year" style="fill:rgb(189.9295644430488, 0.0, 0.0)">
@@ -388,7 +403,7 @@
 0.4 years
 -47.88% / year</title>
   </rect>
-  <rect x="703.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX Vega 56
+  <rect x="703.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX Vega 56
 94 → 68 = -26 increase
 0.4 years
 -77.71% / year" style="fill:rgb(230.53054746676244, 0.0, 0.0)">
@@ -397,7 +412,7 @@
 0.4 years
 -77.71% / year</title>
   </rect>
-  <rect x="1093.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 2080
+  <rect x="1093.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 2080
 94 → 110 = 16 increase
 1.5 years
 10.48% / year" style="fill:rgb(0.0, 103.43529596872092, 0.0)">
@@ -406,7 +421,7 @@
 1.5 years
 10.48% / year</title>
   </rect>
-  <rect x="1123.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 2080 Ti
+  <rect x="1123.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 2080 Ti
 94 → 139 = 45 increase
 1.5 years
 26.08% / year" style="fill:rgb(0.0, 148.95461271343902, 0.0)">
@@ -415,7 +430,7 @@
 1.5 years
 26.08% / year</title>
   </rect>
-  <rect x="1153.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2070
+  <rect x="1153.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2070
 94 → 86 = -8 increase
 1.6 years
 -5.62% / year" style="fill:rgb(80.60550618629796, 0.0, 0.0)">
@@ -424,7 +439,7 @@
 1.6 years
 -5.62% / year</title>
   </rect>
-  <rect x="1243.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2060
+  <rect x="1243.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2060
 94 → 60 = -34 increase
 1.8 years
 -24.49% / year" style="fill:rgb(145.25225453682583, 0.0, 0.0)">
@@ -433,7 +448,7 @@
 1.8 years
 -24.49% / year</title>
   </rect>
-  <rect x="1273.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon VII
+  <rect x="1273.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon VII
 94 → 100 = 6 increase
 1.9 years
 3.23% / year" style="fill:rgb(0.0, 64.5845685521257, 0.0)">
@@ -442,7 +457,7 @@
 1.9 years
 3.23% / year</title>
   </rect>
-  <rect x="1393.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 2080 Super
 94 → 116 = 22 increase
 2.2 years
 9.35% / year" style="fill:rgb(0.0, 98.80958828546095, 0.0)">
@@ -451,7 +466,7 @@
 2.2 years
 9.35% / year</title>
   </rect>
-  <rect x="1423.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX 5700 XT
 94 → 90 = -4 increase
 2.3 years
 -1.86% / year" style="fill:rgb(51.84247217728825, 0.0, 0.0)">
@@ -460,7 +475,7 @@
 2.3 years
 -1.86% / year</title>
   </rect>
-  <rect x="1453.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX 5700
+  <rect x="1453.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX 5700
 94 → 80 = -14 increase
 2.3 years
 -6.91% / year" style="fill:rgb(87.57273335688963, 0.0, 0.0)">
@@ -469,7 +484,7 @@
 2.3 years
 -6.91% / year</title>
   </rect>
-  <rect x="1483.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2070 Super
 94 → 100 = 6 increase
 2.3 years
 2.65% / year" style="fill:rgb(0.0, 59.69757427433817, 0.0)">
@@ -478,7 +493,7 @@
 2.3 years
 2.65% / year</title>
   </rect>
-  <rect x="1513.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforce RTX 2060 Super
 94 → 81 = -13 increase
 2.3 years
 -6.38% / year" style="fill:rgb(84.80938207891705, 0.0, 0.0)">
@@ -487,7 +502,7 @@
 2.3 years
 -6.38% / year</title>
   </rect>
-  <rect x="1933.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3080
 94 → 187 = 93 increase
 3.5 years
 19.65% / year" style="fill:rgb(0.0, 133.01521643826504, 0.0)">
@@ -496,7 +511,7 @@
 3.5 years
 19.65% / year</title>
   </rect>
-  <rect x="1963.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3090
 94 → 209 = 115 increase
 3.5 years
 22.83% / year" style="fill:rgb(0.0, 141.23432402767565, 0.0)">
@@ -505,7 +520,7 @@
 3.5 years
 22.83% / year</title>
   </rect>
-  <rect x="1993.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3070
 94 → 136 = 42 increase
 3.6 years
 10.31% / year" style="fill:rgb(0.0, 102.75555041263316, 0.0)">
@@ -514,7 +529,7 @@
 3.6 years
 10.31% / year</title>
   </rect>
-  <rect x="2023.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeo RX 6800 XT
 94 → 169 = 75 increase
 3.7 years
 16.00% / year" style="fill:rgb(0.0, 122.5094517536432, 0.0)">
@@ -523,7 +538,7 @@
 3.7 years
 16.00% / year</title>
   </rect>
-  <rect x="2053.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeo RX 6800
+  <rect x="2053.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeo RX 6800
 94 → 149 = 55 increase
 3.7 years
 12.56% / year" style="fill:rgb(0.0, 111.21941670150704, 0.0)">
@@ -532,7 +547,7 @@
 3.7 years
 12.56% / year</title>
   </rect>
-  <rect x="2083.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3060 Ti
 94 → 117 = 23 increase
 3.8 years
 5.84% / year" style="fill:rgb(0.0, 81.84825651396048, 0.0)">
@@ -541,7 +556,7 @@
 3.8 years
 5.84% / year</title>
   </rect>
-  <rect x="2113.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeo RX 6900 XT
 94 → 184 = 90 increase
 3.8 years
 17.91% / year" style="fill:rgb(0.0, 128.16886746631388, 0.0)">
@@ -550,7 +565,7 @@
 3.8 years
 17.91% / year</title>
   </rect>
-  <rect x="2173.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3060
 94 → 92 = -2 increase
 3.9 years
 -0.55% / year" style="fill:rgb(31.797944717272117, 0.0, 0.0)">
@@ -559,7 +574,7 @@
 3.9 years
 -0.55% / year</title>
   </rect>
-  <rect x="2203.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon RX 6700 XT
 94 → 119 = 25 increase
 4.0 years
 5.90% / year" style="fill:rgb(0.0, 82.17786512745623, 0.0)">
@@ -568,7 +583,7 @@
 4.0 years
 5.90% / year</title>
   </rect>
-  <rect x="2293.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3080 Ti
 94 → 204 = 110 increase
 4.2 years
 18.23% / year" style="fill:rgb(0.0, 129.0821248540935, 0.0)">
@@ -577,7 +592,7 @@
 4.2 years
 18.23% / year</title>
   </rect>
-  <rect x="2323.0" y="843.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → Nvidia Geforece RTX 3070 Ti
 94 → 147 = 53 increase
 4.2 years
 10.52% / year" style="fill:rgb(0.0, 103.60033612073592, 0.0)">
@@ -586,7 +601,16 @@
 4.2 years
 10.52% / year</title>
   </rect>
-  <rect x="703.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX Vega 56
+  <rect x="2383.0" y="873.0" width="24.0" height="24.0" title="Nvidia Geforce GTX 1080 Ti → AMD Radeon 6600 XT
+94 → 87 = -7 increase
+4.4 years
+-1.75% / year" style="fill:rgb(50.57883016053302, 0.0, 0.0)">
+    <title>Nvidia Geforce GTX 1080 Ti → AMD Radeon 6600 XT
+94 → 87 = -7 increase
+4.4 years
+-1.75% / year</title>
+  </rect>
+  <rect x="703.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX Vega 56
 77 → 68 = -9 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -595,7 +619,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1093.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 2080
+  <rect x="1093.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 2080
 77 → 110 = 33 increase
 1.1 years
 32.92% / year" style="fill:rgb(0.0, 163.5100226100053, 0.0)">
@@ -604,7 +628,7 @@ nan% / year</title>
 1.1 years
 32.92% / year</title>
   </rect>
-  <rect x="1123.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 2080 Ti
+  <rect x="1123.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 2080 Ti
 77 → 139 = 62 increase
 1.1 years
 54.52% / year" style="fill:rgb(0.0, 200.06580484666557, 0.0)">
@@ -613,7 +637,7 @@ nan% / year</title>
 1.1 years
 54.52% / year</title>
   </rect>
-  <rect x="1153.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2070
+  <rect x="1153.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2070
 77 → 86 = 9 increase
 1.2 years
 9.48% / year" style="fill:rgb(0.0, 99.35098891930723, 0.0)">
@@ -622,7 +646,7 @@ nan% / year</title>
 1.2 years
 9.48% / year</title>
   </rect>
-  <rect x="1243.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2060
+  <rect x="1243.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2060
 77 → 60 = -17 increase
 1.4 years
 -17.61% / year" style="fill:rgb(127.3016627219135, 0.0, 0.0)">
@@ -631,7 +655,7 @@ nan% / year</title>
 1.4 years
 -17.61% / year</title>
   </rect>
-  <rect x="1273.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon VII
+  <rect x="1273.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon VII
 77 → 100 = 23 increase
 1.5 years
 17.42% / year" style="fill:rgb(0.0, 126.76591395446303, 0.0)">
@@ -640,7 +664,7 @@ nan% / year</title>
 1.5 years
 17.42% / year</title>
   </rect>
-  <rect x="1393.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 2080 Super
 77 → 116 = 39 increase
 1.8 years
 22.35% / year" style="fill:rgb(0.0, 140.04445944580365, 0.0)">
@@ -649,7 +673,7 @@ nan% / year</title>
 1.8 years
 22.35% / year</title>
   </rect>
-  <rect x="1423.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX 5700 XT
 77 → 90 = 13 increase
 1.9 years
 8.14% / year" style="fill:rgb(0.0, 93.49235828573697, 0.0)">
@@ -658,7 +682,7 @@ nan% / year</title>
 1.9 years
 8.14% / year</title>
   </rect>
-  <rect x="1453.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX 5700
+  <rect x="1453.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX 5700
 77 → 80 = 3 increase
 1.9 years
 1.99% / year" style="fill:rgb(0.0, 53.265171535509445, 0.0)">
@@ -667,7 +691,7 @@ nan% / year</title>
 1.9 years
 1.99% / year</title>
   </rect>
-  <rect x="1483.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2070 Super
 77 → 100 = 23 increase
 1.9 years
 13.64% / year" style="fill:rgb(0.0, 114.92654731073216, 0.0)">
@@ -676,7 +700,7 @@ nan% / year</title>
 1.9 years
 13.64% / year</title>
   </rect>
-  <rect x="1513.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforce RTX 2060 Super
 77 → 81 = 4 increase
 1.9 years
 2.64% / year" style="fill:rgb(0.0, 59.6117440391707, 0.0)">
@@ -685,7 +709,7 @@ nan% / year</title>
 1.9 years
 2.64% / year</title>
   </rect>
-  <rect x="1933.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3080
 77 → 187 = 110 increase
 3.1 years
 28.78% / year" style="fill:rgb(0.0, 154.93902094935515, 0.0)">
@@ -694,7 +718,7 @@ nan% / year</title>
 3.1 years
 28.78% / year</title>
   </rect>
-  <rect x="1963.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3090
 77 → 209 = 132 increase
 3.1 years
 32.38% / year" style="fill:rgb(0.0, 162.43373577636024, 0.0)">
@@ -703,7 +727,7 @@ nan% / year</title>
 3.1 years
 32.38% / year</title>
   </rect>
-  <rect x="1993.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3070
 77 → 136 = 59 increase
 3.2 years
 17.96% / year" style="fill:rgb(0.0, 128.3211317979963, 0.0)">
@@ -712,7 +736,7 @@ nan% / year</title>
 3.2 years
 17.96% / year</title>
   </rect>
-  <rect x="2023.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeo RX 6800 XT
 77 → 169 = 92 increase
 3.2 years
 24.19% / year" style="fill:rgb(0.0, 144.53614671864997, 0.0)">
@@ -721,7 +745,7 @@ nan% / year</title>
 3.2 years
 24.19% / year</title>
   </rect>
-  <rect x="2053.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeo RX 6800
+  <rect x="2053.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeo RX 6800
 77 → 149 = 72 increase
 3.2 years
 20.31% / year" style="fill:rgb(0.0, 134.78497680365984, 0.0)">
@@ -730,7 +754,7 @@ nan% / year</title>
 3.2 years
 20.31% / year</title>
   </rect>
-  <rect x="2083.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3060 Ti
 77 → 117 = 40 increase
 3.3 years
 12.55% / year" style="fill:rgb(0.0, 111.17631599271773, 0.0)">
@@ -739,7 +763,7 @@ nan% / year</title>
 3.3 years
 12.55% / year</title>
   </rect>
-  <rect x="2113.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeo RX 6900 XT
 77 → 184 = 107 increase
 3.3 years
 26.13% / year" style="fill:rgb(0.0, 149.08087646965237, 0.0)">
@@ -748,7 +772,7 @@ nan% / year</title>
 3.3 years
 26.13% / year</title>
   </rect>
-  <rect x="2173.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3060
 77 → 92 = 15 increase
 3.5 years
 5.09% / year" style="fill:rgb(0.0, 77.45768683980852, 0.0)">
@@ -757,7 +781,7 @@ nan% / year</title>
 3.5 years
 5.09% / year</title>
   </rect>
-  <rect x="2203.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon RX 6700 XT
 77 → 119 = 42 increase
 3.6 years
 12.15% / year" style="fill:rgb(0.0, 109.73570929898673, 0.0)">
@@ -766,7 +790,7 @@ nan% / year</title>
 3.6 years
 12.15% / year</title>
   </rect>
-  <rect x="2293.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3080 Ti
 77 → 204 = 127 increase
 3.8 years
 25.42% / year" style="fill:rgb(0.0, 147.43114056695484, 0.0)">
@@ -775,7 +799,7 @@ nan% / year</title>
 3.8 years
 25.42% / year</title>
   </rect>
-  <rect x="2323.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → Nvidia Geforece RTX 3070 Ti
 77 → 147 = 70 increase
 3.8 years
 16.87% / year" style="fill:rgb(0.0, 125.13278899741628, 0.0)">
@@ -784,7 +808,16 @@ nan% / year</title>
 3.8 years
 16.87% / year</title>
   </rect>
-  <rect x="1093.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 2080
+  <rect x="2383.0" y="843.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 64 → AMD Radeon 6600 XT
+77 → 87 = 10 increase
+4.0 years
+3.05% / year" style="fill:rgb(0.0, 63.154788681788396, 0.0)">
+    <title>AMD Radeon RX Vega 64 → AMD Radeon 6600 XT
+77 → 87 = 10 increase
+4.0 years
+3.05% / year</title>
+  </rect>
+  <rect x="1093.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 2080
 68 → 110 = 42 increase
 1.1 years
 44.40% / year" style="fill:rgb(0.0, 184.28224498088858, 0.0)">
@@ -793,7 +826,7 @@ nan% / year</title>
 1.1 years
 44.40% / year</title>
   </rect>
-  <rect x="1123.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 2080 Ti
+  <rect x="1123.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 2080 Ti
 68 → 139 = 71 increase
 1.1 years
 66.00% / year" style="fill:rgb(0.0, 215.94818047102405, 0.0)">
@@ -802,7 +835,7 @@ nan% / year</title>
 1.1 years
 66.00% / year</title>
   </rect>
-  <rect x="1153.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2070
+  <rect x="1153.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2070
 68 → 86 = 18 increase
 1.2 years
 20.13% / year" style="fill:rgb(0.0, 134.2981378185888, 0.0)">
@@ -811,7 +844,7 @@ nan% / year</title>
 1.2 years
 20.13% / year</title>
   </rect>
-  <rect x="1243.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2060
+  <rect x="1243.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2060
 68 → 60 = -8 increase
 1.4 years
 -8.84% / year" style="fill:rgb(96.6103586477812, 0.0, 0.0)">
@@ -820,7 +853,7 @@ nan% / year</title>
 1.4 years
 -8.84% / year</title>
   </rect>
-  <rect x="1273.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon VII
+  <rect x="1273.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon VII
 68 → 100 = 32 increase
 1.5 years
 25.71% / year" style="fill:rgb(0.0, 148.11076770762878, 0.0)">
@@ -829,7 +862,7 @@ nan% / year</title>
 1.5 years
 25.71% / year</title>
   </rect>
-  <rect x="1393.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 2080 Super
 68 → 116 = 48 increase
 1.8 years
 29.13% / year" style="fill:rgb(0.0, 155.6994007622475, 0.0)">
@@ -838,7 +871,7 @@ nan% / year</title>
 1.8 years
 29.13% / year</title>
   </rect>
-  <rect x="1423.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon RX 5700 XT
 68 → 90 = 22 increase
 1.9 years
 14.62% / year" style="fill:rgb(0.0, 118.1876238968858, 0.0)">
@@ -847,7 +880,7 @@ nan% / year</title>
 1.9 years
 14.62% / year</title>
   </rect>
-  <rect x="1453.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon RX 5700
+  <rect x="1453.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon RX 5700
 68 → 80 = 12 increase
 1.9 years
 8.48% / year" style="fill:rgb(0.0, 95.03490078230688, 0.0)">
@@ -856,7 +889,7 @@ nan% / year</title>
 1.9 years
 8.48% / year</title>
   </rect>
-  <rect x="1483.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2070 Super
 68 → 100 = 32 increase
 1.9 years
 20.12% / year" style="fill:rgb(0.0, 134.27788765278228, 0.0)">
@@ -865,7 +898,7 @@ nan% / year</title>
 1.9 years
 20.12% / year</title>
   </rect>
-  <rect x="1513.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforce RTX 2060 Super
 68 → 81 = 13 increase
 1.9 years
 9.13% / year" style="fill:rgb(0.0, 97.8765454831057, 0.0)">
@@ -874,7 +907,7 @@ nan% / year</title>
 1.9 years
 9.13% / year</title>
   </rect>
-  <rect x="1933.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3080
 68 → 187 = 119 increase
 3.1 years
 32.81% / year" style="fill:rgb(0.0, 163.28100847417306, 0.0)">
@@ -883,7 +916,7 @@ nan% / year</title>
 3.1 years
 32.81% / year</title>
   </rect>
-  <rect x="1963.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3090
 68 → 209 = 141 increase
 3.1 years
 36.42% / year" style="fill:rgb(0.0, 170.23821543547203, 0.0)">
@@ -892,7 +925,7 @@ nan% / year</title>
 3.1 years
 36.42% / year</title>
   </rect>
-  <rect x="1993.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3070
 68 → 136 = 68 increase
 3.2 years
 21.89% / year" style="fill:rgb(0.0, 138.87671164361925, 0.0)">
@@ -901,7 +934,7 @@ nan% / year</title>
 3.2 years
 21.89% / year</title>
   </rect>
-  <rect x="2023.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeo RX 6800 XT
 68 → 169 = 101 increase
 3.2 years
 28.01% / year" style="fill:rgb(0.0, 153.2773630107896, 0.0)">
@@ -910,7 +943,7 @@ nan% / year</title>
 3.2 years
 28.01% / year</title>
   </rect>
-  <rect x="2053.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeo RX 6800
+  <rect x="2053.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeo RX 6800
 68 → 149 = 81 increase
 3.2 years
 24.14% / year" style="fill:rgb(0.0, 144.41437285329636, 0.0)">
@@ -919,7 +952,7 @@ nan% / year</title>
 3.2 years
 24.14% / year</title>
   </rect>
-  <rect x="2083.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3060 Ti
 68 → 117 = 49 increase
 3.3 years
 16.28% / year" style="fill:rgb(0.0, 123.36779450501504, 0.0)">
@@ -928,7 +961,7 @@ nan% / year</title>
 3.3 years
 16.28% / year</title>
   </rect>
-  <rect x="2113.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeo RX 6900 XT
 68 → 184 = 116 increase
 3.3 years
 29.86% / year" style="fill:rgb(0.0, 157.25071635302336, 0.0)">
@@ -937,7 +970,7 @@ nan% / year</title>
 3.3 years
 29.86% / year</title>
   </rect>
-  <rect x="2173.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3060
 68 → 92 = 24 increase
 3.5 years
 8.64% / year" style="fill:rgb(0.0, 95.73643011260545, 0.0)">
@@ -946,7 +979,7 @@ nan% / year</title>
 3.5 years
 8.64% / year</title>
   </rect>
-  <rect x="2203.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon RX 6700 XT
 68 → 119 = 51 increase
 3.6 years
 15.62% / year" style="fill:rgb(0.0, 121.33365490951249, 0.0)">
@@ -955,7 +988,7 @@ nan% / year</title>
 3.6 years
 15.62% / year</title>
   </rect>
-  <rect x="2293.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3080 Ti
 68 → 204 = 136 increase
 3.8 years
 28.66% / year" style="fill:rgb(0.0, 154.68468854336857, 0.0)">
@@ -964,7 +997,7 @@ nan% / year</title>
 3.8 years
 28.66% / year</title>
   </rect>
-  <rect x="2323.0" y="783.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → Nvidia Geforece RTX 3070 Ti
 68 → 147 = 79 increase
 3.8 years
 20.11% / year" style="fill:rgb(0.0, 134.2500237745578, 0.0)">
@@ -973,7 +1006,16 @@ nan% / year</title>
 3.8 years
 20.11% / year</title>
   </rect>
-  <rect x="1123.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 2080 Ti
+  <rect x="2383.0" y="813.0" width="24.0" height="24.0" title="AMD Radeon RX Vega 56 → AMD Radeon 6600 XT
+68 → 87 = 19 increase
+4.0 years
+6.16% / year" style="fill:rgb(0.0, 83.6320527752815, 0.0)">
+    <title>AMD Radeon RX Vega 56 → AMD Radeon 6600 XT
+68 → 87 = 19 increase
+4.0 years
+6.16% / year</title>
+  </rect>
+  <rect x="1123.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 2080 Ti
 110 → 139 = 29 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -982,7 +1024,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1153.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2070
+  <rect x="1153.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2070
 110 → 86 = -24 increase
 0.1 years
 -295.36% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -991,7 +1033,7 @@ nan% / year</title>
 0.1 years
 -295.36% / year</title>
   </rect>
-  <rect x="1243.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2060
+  <rect x="1243.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2060
 110 → 60 = -50 increase
 0.3 years
 -181.84% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1000,7 +1042,7 @@ nan% / year</title>
 0.3 years
 -181.84% / year</title>
   </rect>
-  <rect x="1273.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon VII
+  <rect x="1273.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon VII
 110 → 100 = -10 increase
 0.4 years
 -22.87% / year" style="fill:rgb(141.34498128137747, 0.0, 0.0)">
@@ -1009,7 +1051,7 @@ nan% / year</title>
 0.4 years
 -22.87% / year</title>
   </rect>
-  <rect x="1393.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 2080 Super
 110 → 116 = 6 increase
 0.8 years
 7.08% / year" style="fill:rgb(0.0, 88.4271492462886, 0.0)">
@@ -1018,7 +1060,7 @@ nan% / year</title>
 0.8 years
 7.08% / year</title>
   </rect>
-  <rect x="1423.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon RX 5700 XT
 110 → 90 = -20 increase
 0.8 years
 -24.08% / year" style="fill:rgb(144.28004236711354, 0.0, 0.0)">
@@ -1027,7 +1069,7 @@ nan% / year</title>
 0.8 years
 -24.08% / year</title>
   </rect>
-  <rect x="1453.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon RX 5700
+  <rect x="1453.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon RX 5700
 110 → 80 = -30 increase
 0.8 years
 -38.21% / year" style="fill:rgb(173.55263646558217, 0.0, 0.0)">
@@ -1036,7 +1078,7 @@ nan% / year</title>
 0.8 years
 -38.21% / year</title>
   </rect>
-  <rect x="1483.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2070 Super
 110 → 100 = -10 increase
 0.8 years
 -11.44% / year" style="fill:rgb(107.11946486064298, 0.0, 0.0)">
@@ -1045,7 +1087,7 @@ nan% / year</title>
 0.8 years
 -11.44% / year</title>
   </rect>
-  <rect x="1513.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforce RTX 2060 Super
 110 → 81 = -29 increase
 0.8 years
 -36.72% / year" style="fill:rgb(170.81223184933987, 0.0, 0.0)">
@@ -1054,7 +1096,7 @@ nan% / year</title>
 0.8 years
 -36.72% / year</title>
   </rect>
-  <rect x="1933.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3080
 110 → 187 = 77 increase
 2.0 years
 26.53% / year" style="fill:rgb(0.0, 149.983791996609, 0.0)">
@@ -1063,7 +1105,7 @@ nan% / year</title>
 2.0 years
 26.53% / year</title>
   </rect>
-  <rect x="1963.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3090
 110 → 209 = 99 increase
 2.0 years
 32.09% / year" style="fill:rgb(0.0, 161.84625409492875, 0.0)">
@@ -1072,7 +1114,7 @@ nan% / year</title>
 2.0 years
 32.09% / year</title>
   </rect>
-  <rect x="1993.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3070
 110 → 136 = 26 increase
 2.1 years
 10.18% / year" style="fill:rgb(0.0, 102.26192569697622, 0.0)">
@@ -1081,7 +1123,7 @@ nan% / year</title>
 2.1 years
 10.18% / year</title>
   </rect>
-  <rect x="2023.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeo RX 6800 XT
 110 → 169 = 59 increase
 2.2 years
 19.82% / year" style="fill:rgb(0.0, 133.4675163343317, 0.0)">
@@ -1090,7 +1132,7 @@ nan% / year</title>
 2.2 years
 19.82% / year</title>
   </rect>
-  <rect x="2053.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeo RX 6800
+  <rect x="2053.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeo RX 6800
 110 → 149 = 39 increase
 2.2 years
 14.01% / year" style="fill:rgb(0.0, 116.16286680111412, 0.0)">
@@ -1099,7 +1141,7 @@ nan% / year</title>
 2.2 years
 14.01% / year</title>
   </rect>
-  <rect x="2083.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3060 Ti
 110 → 117 = 7 increase
 2.2 years
 2.74% / year" style="fill:rgb(0.0, 60.50108055236172, 0.0)">
@@ -1108,7 +1150,7 @@ nan% / year</title>
 2.2 years
 2.74% / year</title>
   </rect>
-  <rect x="2113.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeo RX 6900 XT
 110 → 184 = 74 increase
 2.2 years
 22.86% / year" style="fill:rgb(0.0, 141.32085702230054, 0.0)">
@@ -1117,7 +1159,7 @@ nan% / year</title>
 2.2 years
 22.86% / year</title>
   </rect>
-  <rect x="2173.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3060
 110 → 92 = -18 increase
 2.4 years
 -7.39% / year" style="fill:rgb(89.96950233409953, 0.0, 0.0)">
@@ -1126,7 +1168,7 @@ nan% / year</title>
 2.4 years
 -7.39% / year</title>
   </rect>
-  <rect x="2203.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon RX 6700 XT
 110 → 119 = 9 increase
 2.5 years
 3.15% / year" style="fill:rgb(0.0, 63.918781465790794, 0.0)">
@@ -1135,7 +1177,7 @@ nan% / year</title>
 2.5 years
 3.15% / year</title>
   </rect>
-  <rect x="2293.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3080 Ti
 110 → 204 = 94 increase
 2.8 years
 22.46% / year" style="fill:rgb(0.0, 140.31405122711942, 0.0)">
@@ -1144,7 +1186,7 @@ nan% / year</title>
 2.8 years
 22.46% / year</title>
   </rect>
-  <rect x="2323.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → Nvidia Geforece RTX 3070 Ti
 110 → 147 = 37 increase
 2.8 years
 10.54% / year" style="fill:rgb(0.0, 103.69019203394514, 0.0)">
@@ -1153,7 +1195,16 @@ nan% / year</title>
 2.8 years
 10.54% / year</title>
   </rect>
-  <rect x="1153.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2070
+  <rect x="2383.0" y="783.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 → AMD Radeon 6600 XT
+110 → 87 = -23 increase
+2.9 years
+-8.04% / year" style="fill:rgb(93.04565820473714, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 2080 → AMD Radeon 6600 XT
+110 → 87 = -23 increase
+2.9 years
+-8.04% / year</title>
+  </rect>
+  <rect x="1153.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2070
 139 → 86 = -53 increase
 0.1 years
 -576.15% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1162,7 +1213,7 @@ nan% / year</title>
 0.1 years
 -576.15% / year</title>
   </rect>
-  <rect x="1243.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2060
+  <rect x="1243.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2060
 139 → 60 = -79 increase
 0.3 years
 -252.04% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1171,7 +1222,7 @@ nan% / year</title>
 0.3 years
 -252.04% / year</title>
   </rect>
-  <rect x="1273.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon VII
+  <rect x="1273.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon VII
 139 → 100 = -39 increase
 0.4 years
 -79.03% / year" style="fill:rgb(232.09369685300442, 0.0, 0.0)">
@@ -1180,7 +1231,7 @@ nan% / year</title>
 0.4 years
 -79.03% / year</title>
   </rect>
-  <rect x="1393.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 2080 Super
 139 → 116 = -23 increase
 0.8 years
 -24.12% / year" style="fill:rgb(144.36951205334697, 0.0, 0.0)">
@@ -1189,7 +1240,7 @@ nan% / year</title>
 0.8 years
 -24.12% / year</title>
   </rect>
-  <rect x="1423.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon RX 5700 XT
 139 → 90 = -49 increase
 0.8 years
 -52.16% / year" style="fill:rgb(196.55054518912476, 0.0, 0.0)">
@@ -1198,7 +1249,7 @@ nan% / year</title>
 0.8 years
 -52.16% / year</title>
   </rect>
-  <rect x="1453.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon RX 5700
+  <rect x="1453.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon RX 5700
 139 → 80 = -59 increase
 0.8 years
 -66.29% / year" style="fill:rgb(216.33611211405213, 0.0, 0.0)">
@@ -1207,7 +1258,7 @@ nan% / year</title>
 0.8 years
 -66.29% / year</title>
   </rect>
-  <rect x="1483.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2070 Super
 139 → 100 = -39 increase
 0.8 years
 -39.52% / year" style="fill:rgb(175.89413065137052, 0.0, 0.0)">
@@ -1216,7 +1267,7 @@ nan% / year</title>
 0.8 years
 -39.52% / year</title>
   </rect>
-  <rect x="1513.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforce RTX 2060 Super
 139 → 81 = -58 increase
 0.8 years
 -64.80% / year" style="fill:rgb(214.37698258747747, 0.0, 0.0)">
@@ -1225,7 +1276,7 @@ nan% / year</title>
 0.8 years
 -64.80% / year</title>
   </rect>
-  <rect x="1933.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3080
 139 → 187 = 48 increase
 2.0 years
 14.83% / year" style="fill:rgb(0.0, 118.85486246274135, 0.0)">
@@ -1234,7 +1285,7 @@ nan% / year</title>
 2.0 years
 14.83% / year</title>
   </rect>
-  <rect x="1963.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3090
 139 → 209 = 70 increase
 2.0 years
 20.39% / year" style="fill:rgb(0.0, 134.99968773165693, 0.0)">
@@ -1243,7 +1294,7 @@ nan% / year</title>
 2.0 years
 20.39% / year</title>
   </rect>
-  <rect x="1993.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3070
 139 → 136 = -3 increase
 2.1 years
 -1.05% / year" style="fill:rgb(41.16906366306183, 0.0, 0.0)">
@@ -1252,7 +1303,7 @@ nan% / year</title>
 2.1 years
 -1.05% / year</title>
   </rect>
-  <rect x="2023.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeo RX 6800 XT
 139 → 169 = 30 increase
 2.2 years
 9.02% / year" style="fill:rgb(0.0, 97.41261320438527, 0.0)">
@@ -1261,7 +1312,7 @@ nan% / year</title>
 2.2 years
 9.02% / year</title>
   </rect>
-  <rect x="2053.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeo RX 6800
+  <rect x="2053.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeo RX 6800
 139 → 149 = 10 increase
 2.2 years
 3.21% / year" style="fill:rgb(0.0, 64.40924265539462, 0.0)">
@@ -1270,7 +1321,7 @@ nan% / year</title>
 2.2 years
 3.21% / year</title>
   </rect>
-  <rect x="2083.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3060 Ti
 139 → 117 = -22 increase
 2.2 years
 -7.66% / year" style="fill:rgb(91.23916088839796, 0.0, 0.0)">
@@ -1279,7 +1330,7 @@ nan% / year</title>
 2.2 years
 -7.66% / year</title>
   </rect>
-  <rect x="2113.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeo RX 6900 XT
 139 → 184 = 45 increase
 2.2 years
 12.46% / year" style="fill:rgb(0.0, 110.87067080193506, 0.0)">
@@ -1288,7 +1339,7 @@ nan% / year</title>
 2.2 years
 12.46% / year</title>
   </rect>
-  <rect x="2173.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3060
 139 → 92 = -47 increase
 2.4 years
 -17.08% / year" style="fill:rgb(125.74800482561955, 0.0, 0.0)">
@@ -1297,7 +1348,7 @@ nan% / year</title>
 2.4 years
 -17.08% / year</title>
   </rect>
-  <rect x="2203.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon RX 6700 XT
 139 → 119 = -20 increase
 2.5 years
 -6.21% / year" style="fill:rgb(83.92457913890175, 0.0, 0.0)">
@@ -1306,7 +1357,7 @@ nan% / year</title>
 2.5 years
 -6.21% / year</title>
   </rect>
-  <rect x="2293.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3080 Ti
 139 → 204 = 65 increase
 2.8 years
 13.95% / year" style="fill:rgb(0.0, 115.97901077685655, 0.0)">
@@ -1315,7 +1366,7 @@ nan% / year</title>
 2.8 years
 13.95% / year</title>
   </rect>
-  <rect x="2323.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → Nvidia Geforece RTX 3070 Ti
 139 → 147 = 8 increase
 2.8 years
 2.03% / year" style="fill:rgb(0.0, 53.697492456968014, 0.0)">
@@ -1324,7 +1375,16 @@ nan% / year</title>
 2.8 years
 2.03% / year</title>
   </rect>
-  <rect x="1243.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforce RTX 2060
+  <rect x="2383.0" y="753.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Ti → AMD Radeon 6600 XT
+139 → 87 = -52 increase
+2.9 years
+-16.07% / year" style="fill:rgb(122.71388374418935, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 2080 Ti → AMD Radeon 6600 XT
+139 → 87 = -52 increase
+2.9 years
+-16.07% / year</title>
+  </rect>
+  <rect x="1243.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforce RTX 2060
 86 → 60 = -26 increase
 0.2 years
 -144.00% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1333,7 +1393,7 @@ nan% / year</title>
 0.2 years
 -144.00% / year</title>
   </rect>
-  <rect x="1273.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon VII
+  <rect x="1273.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon VII
 86 → 100 = 14 increase
 0.3 years
 45.25% / year" style="fill:rgb(0.0, 185.6844712588769, 0.0)">
@@ -1342,7 +1402,7 @@ nan% / year</title>
 0.3 years
 45.25% / year</title>
   </rect>
-  <rect x="1393.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 2080 Super
 86 → 116 = 30 increase
 0.7 years
 44.89% / year" style="fill:rgb(0.0, 185.09139260944067, 0.0)">
@@ -1351,7 +1411,7 @@ nan% / year</title>
 0.7 years
 44.89% / year</title>
   </rect>
-  <rect x="1423.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon RX 5700 XT
 86 → 90 = 4 increase
 0.8 years
 6.06% / year" style="fill:rgb(0.0, 83.09531137083184, 0.0)">
@@ -1360,7 +1420,7 @@ nan% / year</title>
 0.8 years
 6.06% / year</title>
   </rect>
-  <rect x="1453.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon RX 5700
+  <rect x="1453.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon RX 5700
 86 → 80 = -6 increase
 0.8 years
 -9.64% / year" style="fill:rgb(100.05081512194815, 0.0, 0.0)">
@@ -1369,7 +1429,7 @@ nan% / year</title>
 0.8 years
 -9.64% / year</title>
   </rect>
-  <rect x="1483.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforce RTX 2070 Super
 86 → 100 = 14 increase
 0.8 years
 20.11% / year" style="fill:rgb(0.0, 134.2463782866816, 0.0)">
@@ -1378,7 +1438,7 @@ nan% / year</title>
 0.8 years
 20.11% / year</title>
   </rect>
-  <rect x="1513.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforce RTX 2060 Super
 86 → 81 = -5 increase
 0.8 years
 -7.99% / year" style="fill:rgb(92.78569268556193, 0.0, 0.0)">
@@ -1387,7 +1447,7 @@ nan% / year</title>
 0.8 years
 -7.99% / year</title>
   </rect>
-  <rect x="1933.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3080
 86 → 187 = 101 increase
 1.9 years
 40.53% / year" style="fill:rgb(0.0, 177.67919626930512, 0.0)">
@@ -1396,7 +1456,7 @@ nan% / year</title>
 1.9 years
 40.53% / year</title>
   </rect>
-  <rect x="1963.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3090
 86 → 209 = 123 increase
 1.9 years
 46.33% / year" style="fill:rgb(0.0, 187.4494536356292, 0.0)">
@@ -1405,7 +1465,7 @@ nan% / year</title>
 1.9 years
 46.33% / year</title>
   </rect>
-  <rect x="1993.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3070
 86 → 136 = 50 increase
 2.0 years
 22.92% / year" style="fill:rgb(0.0, 141.44610794015037, 0.0)">
@@ -1414,7 +1474,7 @@ nan% / year</title>
 2.0 years
 22.92% / year</title>
   </rect>
-  <rect x="2023.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeo RX 6800 XT
 86 → 169 = 83 increase
 2.1 years
 32.43% / year" style="fill:rgb(0.0, 162.51746503022537, 0.0)">
@@ -1423,7 +1483,7 @@ nan% / year</title>
 2.1 years
 32.43% / year</title>
   </rect>
-  <rect x="2053.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeo RX 6800
+  <rect x="2053.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeo RX 6800
 86 → 149 = 63 increase
 2.1 years
 26.38% / year" style="fill:rgb(0.0, 149.64253337695453, 0.0)">
@@ -1432,7 +1492,7 @@ nan% / year</title>
 2.1 years
 26.38% / year</title>
   </rect>
-  <rect x="2083.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3060 Ti
 86 → 117 = 31 increase
 2.2 years
 14.21% / year" style="fill:rgb(0.0, 116.82769807426189, 0.0)">
@@ -1441,7 +1501,7 @@ nan% / year</title>
 2.2 years
 14.21% / year</title>
   </rect>
-  <rect x="2113.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeo RX 6900 XT
 86 → 184 = 98 increase
 2.2 years
 35.10% / year" style="fill:rgb(0.0, 167.7579972343616, 0.0)">
@@ -1450,7 +1510,7 @@ nan% / year</title>
 2.2 years
 35.10% / year</title>
   </rect>
-  <rect x="2173.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3060
 86 → 92 = 6 increase
 2.3 years
 2.89% / year" style="fill:rgb(0.0, 61.79022691771221, 0.0)">
@@ -1459,7 +1519,7 @@ nan% / year</title>
 2.3 years
 2.89% / year</title>
   </rect>
-  <rect x="2203.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon RX 6700 XT
 86 → 119 = 33 increase
 2.4 years
 13.44% / year" style="fill:rgb(0.0, 114.25814171519832, 0.0)">
@@ -1468,7 +1528,7 @@ nan% / year</title>
 2.4 years
 13.44% / year</title>
   </rect>
-  <rect x="2293.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3080 Ti
 86 → 204 = 118 increase
 2.7 years
 32.39% / year" style="fill:rgb(0.0, 162.4472921964273, 0.0)">
@@ -1477,7 +1537,7 @@ nan% / year</title>
 2.7 years
 32.39% / year</title>
   </rect>
-  <rect x="2323.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → Nvidia Geforece RTX 3070 Ti
 86 → 147 = 61 increase
 2.7 years
 20.10% / year" style="fill:rgb(0.0, 134.22896574462496, 0.0)">
@@ -1486,7 +1546,16 @@ nan% / year</title>
 2.7 years
 20.10% / year</title>
   </rect>
-  <rect x="1273.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon VII
+  <rect x="2383.0" y="723.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 → AMD Radeon 6600 XT
+86 → 87 = 1 increase
+2.8 years
+0.41% / year" style="fill:rgb(0.0, 28.236873216636763, 0.0)">
+    <title>Nvidia Geforce RTX 2070 → AMD Radeon 6600 XT
+86 → 87 = 1 increase
+2.8 years
+0.41% / year</title>
+  </rect>
+  <rect x="1273.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon VII
 60 → 100 = 40 increase
 0.1 years
 612.99% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -1495,7 +1564,7 @@ nan% / year</title>
 0.1 years
 612.99% / year</title>
   </rect>
-  <rect x="1393.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 2080 Super
+  <rect x="1393.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 2080 Super
 60 → 116 = 56 increase
 0.4 years
 158.22% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -1504,7 +1573,7 @@ nan% / year</title>
 0.4 years
 158.22% / year</title>
   </rect>
-  <rect x="1423.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon RX 5700 XT
 60 → 90 = 30 increase
 0.5 years
 81.09% / year" style="fill:rgb(0.0, 234.4949928239501, 0.0)">
@@ -1513,7 +1582,7 @@ nan% / year</title>
 0.5 years
 81.09% / year</title>
   </rect>
-  <rect x="1453.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon RX 5700
+  <rect x="1453.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon RX 5700
 60 → 80 = 20 increase
 0.5 years
 57.54% / year" style="fill:rgb(0.0, 204.41713548231974, 0.0)">
@@ -1522,7 +1591,7 @@ nan% / year</title>
 0.5 years
 57.54% / year</title>
   </rect>
-  <rect x="1483.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforce RTX 2070 Super
 60 → 100 = 40 increase
 0.5 years
 102.17% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -1531,7 +1600,7 @@ nan% / year</title>
 0.5 years
 102.17% / year</title>
   </rect>
-  <rect x="1513.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforce RTX 2060 Super
 60 → 81 = 21 increase
 0.5 years
 60.02% / year" style="fill:rgb(0.0, 207.90322935324093, 0.0)">
@@ -1540,7 +1609,7 @@ nan% / year</title>
 0.5 years
 60.02% / year</title>
   </rect>
-  <rect x="1933.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3080
 60 → 187 = 127 increase
 1.7 years
 68.21% / year" style="fill:rgb(0.0, 218.81083001731923, 0.0)">
@@ -1549,7 +1618,7 @@ nan% / year</title>
 1.7 years
 68.21% / year</title>
   </rect>
-  <rect x="1963.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3090
 60 → 209 = 149 increase
 1.7 years
 74.88% / year" style="fill:rgb(0.0, 227.13553255995305, 0.0)">
@@ -1558,7 +1627,7 @@ nan% / year</title>
 1.7 years
 74.88% / year</title>
   </rect>
-  <rect x="1993.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3070
 60 → 136 = 76 increase
 1.8 years
 46.76% / year" style="fill:rgb(0.0, 188.14477978590946, 0.0)">
@@ -1567,7 +1636,7 @@ nan% / year</title>
 1.8 years
 46.76% / year</title>
   </rect>
-  <rect x="2023.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeo RX 6800 XT
 60 → 169 = 109 increase
 1.8 years
 56.48% / year" style="fill:rgb(0.0, 202.9143365211204, 0.0)">
@@ -1576,7 +1645,7 @@ nan% / year</title>
 1.8 years
 56.48% / year</title>
   </rect>
-  <rect x="2053.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeo RX 6800
+  <rect x="2053.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeo RX 6800
 60 → 149 = 89 increase
 1.8 years
 49.61% / year" style="fill:rgb(0.0, 192.65670141750863, 0.0)">
@@ -1585,7 +1654,7 @@ nan% / year</title>
 1.8 years
 49.61% / year</title>
   </rect>
-  <rect x="2083.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3060 Ti
 60 → 117 = 57 increase
 1.9 years
 34.84% / year" style="fill:rgb(0.0, 167.2583279785226, 0.0)">
@@ -1594,7 +1663,7 @@ nan% / year</title>
 1.9 years
 34.84% / year</title>
   </rect>
-  <rect x="2113.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeo RX 6900 XT
 60 → 184 = 124 increase
 1.9 years
 58.47% / year" style="fill:rgb(0.0, 205.73132672455685, 0.0)">
@@ -1603,7 +1672,7 @@ nan% / year</title>
 1.9 years
 58.47% / year</title>
   </rect>
-  <rect x="2173.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3060
 60 → 92 = 32 increase
 2.1 years
 20.52% / year" style="fill:rgb(0.0, 135.3282206357173, 0.0)">
@@ -1612,7 +1681,7 @@ nan% / year</title>
 2.1 years
 20.52% / year</title>
   </rect>
-  <rect x="2203.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon RX 6700 XT
 60 → 119 = 59 increase
 2.2 years
 31.61% / year" style="fill:rgb(0.0, 160.8583077318589, 0.0)">
@@ -1621,7 +1690,7 @@ nan% / year</title>
 2.2 years
 31.61% / year</title>
   </rect>
-  <rect x="2293.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3080 Ti
 60 → 204 = 144 increase
 2.4 years
 50.64% / year" style="fill:rgb(0.0, 194.2379884128113, 0.0)">
@@ -1630,7 +1699,7 @@ nan% / year</title>
 2.4 years
 50.64% / year</title>
   </rect>
-  <rect x="2323.0" y="663.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → Nvidia Geforece RTX 3070 Ti
 60 → 147 = 87 increase
 2.4 years
 37.08% / year" style="fill:rgb(0.0, 171.47221150268425, 0.0)">
@@ -1639,7 +1708,16 @@ nan% / year</title>
 2.4 years
 37.08% / year</title>
   </rect>
-  <rect x="1393.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 2080 Super
+  <rect x="2383.0" y="693.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 → AMD Radeon 6600 XT
+60 → 87 = 27 increase
+2.6 years
+14.38% / year" style="fill:rgb(0.0, 117.40355449513592, 0.0)">
+    <title>Nvidia Geforce RTX 2060 → AMD Radeon 6600 XT
+60 → 87 = 27 increase
+2.6 years
+14.38% / year</title>
+  </rect>
+  <rect x="1393.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 2080 Super
 100 → 116 = 16 increase
 0.3 years
 44.53% / year" style="fill:rgb(0.0, 184.49544961509815, 0.0)">
@@ -1648,7 +1726,7 @@ nan% / year</title>
 0.3 years
 44.53% / year</title>
   </rect>
-  <rect x="1423.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon RX 5700 XT
+  <rect x="1423.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon RX 5700 XT
 100 → 90 = -10 increase
 0.4 years
 -25.29% / year" style="fill:rgb(147.12816963549324, 0.0, 0.0)">
@@ -1657,7 +1735,7 @@ nan% / year</title>
 0.4 years
 -25.29% / year</title>
   </rect>
-  <rect x="1453.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon RX 5700
+  <rect x="1453.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon RX 5700
 100 → 80 = -20 increase
 0.4 years
 -53.55% / year" style="fill:rgb(198.63620684576355, 0.0, 0.0)">
@@ -1666,7 +1744,7 @@ nan% / year</title>
 0.4 years
 -53.55% / year</title>
   </rect>
-  <rect x="1483.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforce RTX 2070 Super
 100 → 100 = 0 increase
 0.4 years
 0.00% / year" style="fill:rgb(0.0, 0.0, 0.0)">
@@ -1675,7 +1753,7 @@ nan% / year</title>
 0.4 years
 0.00% / year</title>
   </rect>
-  <rect x="1513.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforce RTX 2060 Super
 100 → 81 = -19 increase
 0.4 years
 -50.57% / year" style="fill:rgb(194.13678373156966, 0.0, 0.0)">
@@ -1684,7 +1762,7 @@ nan% / year</title>
 0.4 years
 -50.57% / year</title>
   </rect>
-  <rect x="1933.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3080
 100 → 187 = 87 increase
 1.6 years
 39.53% / year" style="fill:rgb(0.0, 175.92351153433205, 0.0)">
@@ -1693,7 +1771,7 @@ nan% / year</title>
 1.6 years
 39.53% / year</title>
   </rect>
-  <rect x="1963.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3090
 100 → 209 = 109 increase
 1.6 years
 46.56% / year" style="fill:rgb(0.0, 187.81786575896533, 0.0)">
@@ -1702,7 +1780,7 @@ nan% / year</title>
 1.6 years
 46.56% / year</title>
   </rect>
-  <rect x="1993.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3070
 100 → 136 = 36 increase
 1.7 years
 18.45% / year" style="fill:rgb(0.0, 129.69704603486397, 0.0)">
@@ -1711,7 +1789,7 @@ nan% / year</title>
 1.7 years
 18.45% / year</title>
   </rect>
-  <rect x="2023.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeo RX 6800 XT
 100 → 169 = 69 increase
 1.8 years
 29.98% / year" style="fill:rgb(0.0, 157.50662719932794, 0.0)">
@@ -1720,7 +1798,7 @@ nan% / year</title>
 1.8 years
 29.98% / year</title>
   </rect>
-  <rect x="2053.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeo RX 6800
+  <rect x="2053.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeo RX 6800
 100 → 149 = 49 increase
 1.8 years
 22.79% / year" style="fill:rgb(0.0, 141.12911505911782, 0.0)">
@@ -1729,7 +1807,7 @@ nan% / year</title>
 1.8 years
 22.79% / year</title>
   </rect>
-  <rect x="2083.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3060 Ti
 100 → 117 = 17 increase
 1.8 years
 8.56% / year" style="fill:rgb(0.0, 95.41301409782496, 0.0)">
@@ -1738,7 +1816,7 @@ nan% / year</title>
 1.8 years
 8.56% / year</title>
   </rect>
-  <rect x="2113.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeo RX 6900 XT
 100 → 184 = 84 increase
 1.8 years
 33.26% / year" style="fill:rgb(0.0, 164.17565831907496, 0.0)">
@@ -1747,7 +1825,7 @@ nan% / year</title>
 1.8 years
 33.26% / year</title>
   </rect>
-  <rect x="2173.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3060
 100 → 92 = -8 increase
 2.0 years
 -4.17% / year" style="fill:rgb(71.54121154032676, 0.0, 0.0)">
@@ -1756,7 +1834,7 @@ nan% / year</title>
 2.0 years
 -4.17% / year</title>
   </rect>
-  <rect x="2203.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon RX 6700 XT
 100 → 119 = 19 increase
 2.1 years
 8.35% / year" style="fill:rgb(0.0, 94.45169396845608, 0.0)">
@@ -1765,7 +1843,7 @@ nan% / year</title>
 2.1 years
 8.35% / year</title>
   </rect>
-  <rect x="2293.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3080 Ti
 100 → 204 = 104 increase
 2.3 years
 30.55% / year" style="fill:rgb(0.0, 158.69858293711354, 0.0)">
@@ -1774,7 +1852,7 @@ nan% / year</title>
 2.3 years
 30.55% / year</title>
   </rect>
-  <rect x="2323.0" y="633.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → Nvidia Geforece RTX 3070 Ti
 100 → 147 = 47 increase
 2.3 years
 16.51% / year" style="fill:rgb(0.0, 124.06581047576368, 0.0)">
@@ -1783,7 +1861,16 @@ nan% / year</title>
 2.3 years
 16.51% / year</title>
   </rect>
-  <rect x="1423.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon RX 5700 XT
+  <rect x="2383.0" y="663.0" width="24.0" height="24.0" title="AMD Radeon VII → AMD Radeon 6600 XT
+100 → 87 = -13 increase
+2.5 years
+-5.57% / year" style="fill:rgb(80.33361528849017, 0.0, 0.0)">
+    <title>AMD Radeon VII → AMD Radeon 6600 XT
+100 → 87 = -13 increase
+2.5 years
+-5.57% / year</title>
+  </rect>
+  <rect x="1423.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon RX 5700 XT
 116 → 90 = -26 increase
 0.1 years
 -304.54% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1792,7 +1879,7 @@ nan% / year</title>
 0.1 years
 -304.54% / year</title>
   </rect>
-  <rect x="1453.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon RX 5700
+  <rect x="1453.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon RX 5700
 116 → 80 = -36 increase
 0.1 years
 -445.88% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1801,7 +1888,7 @@ nan% / year</title>
 0.1 years
 -445.88% / year</title>
   </rect>
-  <rect x="1483.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforce RTX 2070 Super
 116 → 100 = -16 increase
 0.1 years
 -178.10% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1810,7 +1897,7 @@ nan% / year</title>
 0.1 years
 -178.10% / year</title>
   </rect>
-  <rect x="1513.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforce RTX 2060 Super
 116 → 81 = -35 increase
 0.1 years
 -430.97% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -1819,7 +1906,7 @@ nan% / year</title>
 0.1 years
 -430.97% / year</title>
   </rect>
-  <rect x="1933.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3080
 116 → 187 = 71 increase
 1.2 years
 38.20% / year" style="fill:rgb(0.0, 173.52906585403917, 0.0)">
@@ -1828,7 +1915,7 @@ nan% / year</title>
 1.2 years
 38.20% / year</title>
   </rect>
-  <rect x="1963.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3090
 116 → 209 = 93 increase
 1.2 years
 47.10% / year" style="fill:rgb(0.0, 188.68909037800853, 0.0)">
@@ -1837,7 +1924,7 @@ nan% / year</title>
 1.2 years
 47.10% / year</title>
   </rect>
-  <rect x="1993.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3070
 116 → 136 = 20 increase
 1.3 years
 11.93% / year" style="fill:rgb(0.0, 108.94171409731851, 0.0)">
@@ -1846,7 +1933,7 @@ nan% / year</title>
 1.3 years
 11.93% / year</title>
   </rect>
-  <rect x="2023.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeo RX 6800 XT
 116 → 169 = 53 increase
 1.4 years
 26.56% / year" style="fill:rgb(0.0, 150.0550903180058, 0.0)">
@@ -1855,7 +1942,7 @@ nan% / year</title>
 1.4 years
 26.56% / year</title>
   </rect>
-  <rect x="2053.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeo RX 6800
+  <rect x="2053.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeo RX 6800
 116 → 149 = 33 increase
 1.4 years
 17.67% / year" style="fill:rgb(0.0, 127.48420840922402, 0.0)">
@@ -1864,7 +1951,7 @@ nan% / year</title>
 1.4 years
 17.67% / year</title>
   </rect>
-  <rect x="2083.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3060 Ti
 116 → 117 = 1 increase
 1.5 years
 0.57% / year" style="fill:rgb(0.0, 32.327667700514375, 0.0)">
@@ -1873,7 +1960,7 @@ nan% / year</title>
 1.5 years
 0.57% / year</title>
   </rect>
-  <rect x="2113.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeo RX 6900 XT
 116 → 184 = 68 increase
 1.5 years
 30.76% / year" style="fill:rgb(0.0, 159.11613365914252, 0.0)">
@@ -1882,7 +1969,7 @@ nan% / year</title>
 1.5 years
 30.76% / year</title>
   </rect>
-  <rect x="2173.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3060
 116 → 92 = -24 increase
 1.7 years
 -13.91% / year" style="fill:rgb(115.83698970884234, 0.0, 0.0)">
@@ -1891,7 +1978,7 @@ nan% / year</title>
 1.7 years
 -13.91% / year</title>
   </rect>
-  <rect x="2203.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon RX 6700 XT
 116 → 119 = 3 increase
 1.8 years
 1.46% / year" style="fill:rgb(0.0, 47.00756484192112, 0.0)">
@@ -1900,7 +1987,7 @@ nan% / year</title>
 1.8 years
 1.46% / year</title>
   </rect>
-  <rect x="2293.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3080 Ti
 116 → 204 = 88 increase
 2.0 years
 28.23% / year" style="fill:rgb(0.0, 153.74568360703302, 0.0)">
@@ -1909,7 +1996,7 @@ nan% / year</title>
 2.0 years
 28.23% / year</title>
   </rect>
-  <rect x="2323.0" y="603.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → Nvidia Geforece RTX 3070 Ti
 116 → 147 = 31 increase
 2.0 years
 11.84% / year" style="fill:rgb(0.0, 108.62054069435649, 0.0)">
@@ -1918,7 +2005,16 @@ nan% / year</title>
 2.0 years
 11.84% / year</title>
   </rect>
-  <rect x="1453.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeon RX 5700
+  <rect x="2383.0" y="633.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 2080 Super → AMD Radeon 6600 XT
+116 → 87 = -29 increase
+2.2 years
+-13.28% / year" style="fill:rgb(113.70732929565544, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 2080 Super → AMD Radeon 6600 XT
+116 → 87 = -29 increase
+2.2 years
+-13.28% / year</title>
+  </rect>
+  <rect x="1453.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeon RX 5700
 90 → 80 = -10 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -1927,7 +2023,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1483.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforce RTX 2070 Super
+  <rect x="1483.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforce RTX 2070 Super
 90 → 100 = 10 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -1936,7 +2032,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1513.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforce RTX 2060 Super
 90 → 81 = -9 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -1945,7 +2041,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1933.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3080
 90 → 187 = 97 increase
 1.2 years
 62.68% / year" style="fill:rgb(0.0, 211.5433822183162, 0.0)">
@@ -1954,7 +2050,7 @@ nan% / year</title>
 1.2 years
 62.68% / year</title>
   </rect>
-  <rect x="1963.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3090
 90 → 209 = 119 increase
 1.2 years
 72.22% / year" style="fill:rgb(0.0, 223.8692771072396, 0.0)">
@@ -1963,7 +2059,7 @@ nan% / year</title>
 1.2 years
 72.22% / year</title>
   </rect>
-  <rect x="1993.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3070
 90 → 136 = 46 increase
 1.2 years
 33.03% / year" style="fill:rgb(0.0, 163.7159820430492, 0.0)">
@@ -1972,7 +2068,7 @@ nan% / year</title>
 1.2 years
 33.03% / year</title>
   </rect>
-  <rect x="2023.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeo RX 6800 XT
 90 → 169 = 79 increase
 1.3 years
 47.26% / year" style="fill:rgb(0.0, 188.94067267529462, 0.0)">
@@ -1981,7 +2077,7 @@ nan% / year</title>
 1.3 years
 47.26% / year</title>
   </rect>
-  <rect x="2053.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeo RX 6800
+  <rect x="2053.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeo RX 6800
 90 → 149 = 59 increase
 1.3 years
 37.81% / year" style="fill:rgb(0.0, 172.81601614189313, 0.0)">
@@ -1990,7 +2086,7 @@ nan% / year</title>
 1.3 years
 37.81% / year</title>
   </rect>
-  <rect x="2083.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3060 Ti
 90 → 117 = 27 increase
 1.4 years
 18.52% / year" style="fill:rgb(0.0, 129.89576226385668, 0.0)">
@@ -1999,7 +2095,7 @@ nan% / year</title>
 1.4 years
 18.52% / year</title>
   </rect>
-  <rect x="2113.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeo RX 6900 XT
 90 → 184 = 94 increase
 1.4 years
 50.48% / year" style="fill:rgb(0.0, 193.99304444703728, 0.0)">
@@ -2008,7 +2104,7 @@ nan% / year</title>
 1.4 years
 50.48% / year</title>
   </rect>
-  <rect x="2173.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3060
 90 → 92 = 2 increase
 1.6 years
 1.39% / year" style="fill:rgb(0.0, 46.08012757700032, 0.0)">
@@ -2017,7 +2113,7 @@ nan% / year</title>
 1.6 years
 1.39% / year</title>
   </rect>
-  <rect x="2203.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeon RX 6700 XT
 90 → 119 = 29 increase
 1.7 years
 16.76% / year" style="fill:rgb(0.0, 124.80662869536032, 0.0)">
@@ -2026,7 +2122,7 @@ nan% / year</title>
 1.7 years
 16.76% / year</title>
   </rect>
-  <rect x="2293.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3080 Ti
 90 → 204 = 114 increase
 1.9 years
 42.69% / year" style="fill:rgb(0.0, 181.42150129774322, 0.0)">
@@ -2035,7 +2131,7 @@ nan% / year</title>
 1.9 years
 42.69% / year</title>
   </rect>
-  <rect x="2323.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → Nvidia Geforece RTX 3070 Ti
 90 → 147 = 57 increase
 1.9 years
 25.60% / year" style="fill:rgb(0.0, 147.84977785997668, 0.0)">
@@ -2044,7 +2140,16 @@ nan% / year</title>
 1.9 years
 25.60% / year</title>
   </rect>
-  <rect x="1483.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforce RTX 2070 Super
+  <rect x="2383.0" y="603.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 XT → AMD Radeon 6600 XT
+90 → 87 = -3 increase
+2.1 years
+-1.63% / year" style="fill:rgb(49.10486324850614, 0.0, 0.0)">
+    <title>AMD Radeon RX 5700 XT → AMD Radeon 6600 XT
+90 → 87 = -3 increase
+2.1 years
+-1.63% / year</title>
+  </rect>
+  <rect x="1483.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforce RTX 2070 Super
 80 → 100 = 20 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2053,7 +2158,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1513.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforce RTX 2060 Super
+  <rect x="1513.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforce RTX 2060 Super
 80 → 81 = 1 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2062,7 +2167,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1933.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3080
 80 → 187 = 107 increase
 1.2 years
 72.78% / year" style="fill:rgb(0.0, 224.5646097099147, 0.0)">
@@ -2071,7 +2176,7 @@ nan% / year</title>
 1.2 years
 72.78% / year</title>
   </rect>
-  <rect x="1963.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3090
 80 → 209 = 129 increase
 1.2 years
 82.31% / year" style="fill:rgb(0.0, 235.8987361327413, 0.0)">
@@ -2080,7 +2185,7 @@ nan% / year</title>
 1.2 years
 82.31% / year</title>
   </rect>
-  <rect x="1993.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3070
 80 → 136 = 56 increase
 1.2 years
 42.45% / year" style="fill:rgb(0.0, 181.00572970624995, 0.0)">
@@ -2089,7 +2194,7 @@ nan% / year</title>
 1.2 years
 42.45% / year</title>
   </rect>
-  <rect x="2023.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeo RX 6800 XT
 80 → 169 = 89 increase
 1.3 years
 56.09% / year" style="fill:rgb(0.0, 202.34646139868647, 0.0)">
@@ -2098,7 +2203,7 @@ nan% / year</title>
 1.3 years
 56.09% / year</title>
   </rect>
-  <rect x="2053.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeo RX 6800
+  <rect x="2053.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeo RX 6800
 80 → 149 = 69 increase
 1.3 years
 46.64% / year" style="fill:rgb(0.0, 187.95695615598117, 0.0)">
@@ -2107,7 +2212,7 @@ nan% / year</title>
 1.3 years
 46.64% / year</title>
   </rect>
-  <rect x="2083.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3060 Ti
 80 → 117 = 37 increase
 1.4 years
 26.83% / year" style="fill:rgb(0.0, 150.6655198717541, 0.0)">
@@ -2116,7 +2221,7 @@ nan% / year</title>
 1.4 years
 26.83% / year</title>
   </rect>
-  <rect x="2113.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeo RX 6900 XT
 80 → 184 = 104 increase
 1.4 years
 58.79% / year" style="fill:rgb(0.0, 206.19216461383908, 0.0)">
@@ -2125,7 +2230,7 @@ nan% / year</title>
 1.4 years
 58.79% / year</title>
   </rect>
-  <rect x="2173.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3060
 80 → 92 = 12 increase
 1.6 years
 8.83% / year" style="fill:rgb(0.0, 96.57546536966797, 0.0)">
@@ -2134,7 +2239,7 @@ nan% / year</title>
 1.6 years
 8.83% / year</title>
   </rect>
-  <rect x="2203.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeon RX 6700 XT
 80 → 119 = 39 increase
 1.7 years
 23.83% / year" style="fill:rgb(0.0, 143.66774034352622, 0.0)">
@@ -2143,7 +2248,7 @@ nan% / year</title>
 1.7 years
 23.83% / year</title>
   </rect>
-  <rect x="2293.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3080 Ti
 80 → 204 = 124 increase
 1.9 years
 48.84% / year" style="fill:rgb(0.0, 191.4472842758541, 0.0)">
@@ -2152,7 +2257,7 @@ nan% / year</title>
 1.9 years
 48.84% / year</title>
   </rect>
-  <rect x="2323.0" y="543.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → Nvidia Geforece RTX 3070 Ti
 80 → 147 = 67 increase
 1.9 years
 31.74% / year" style="fill:rgb(0.0, 161.1383551201037, 0.0)">
@@ -2161,7 +2266,16 @@ nan% / year</title>
 1.9 years
 31.74% / year</title>
   </rect>
-  <rect x="1513.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforce RTX 2060 Super
+  <rect x="2383.0" y="573.0" width="24.0" height="24.0" title="AMD Radeon RX 5700 → AMD Radeon 6600 XT
+80 → 87 = 7 increase
+2.1 years
+4.03% / year" style="fill:rgb(0.0, 70.55099083019759, 0.0)">
+    <title>AMD Radeon RX 5700 → AMD Radeon 6600 XT
+80 → 87 = 7 increase
+2.1 years
+4.03% / year</title>
+  </rect>
+  <rect x="1513.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforce RTX 2060 Super
 100 → 81 = -19 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2170,7 +2284,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1933.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3080
+  <rect x="1933.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3080
 100 → 187 = 87 increase
 1.2 years
 53.65% / year" style="fill:rgb(0.0, 198.78065225802024, 0.0)">
@@ -2179,7 +2293,7 @@ nan% / year</title>
 1.2 years
 53.65% / year</title>
   </rect>
-  <rect x="1963.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3090
 100 → 209 = 109 increase
 1.2 years
 63.19% / year" style="fill:rgb(0.0, 212.2203992840971, 0.0)">
@@ -2188,7 +2302,7 @@ nan% / year</title>
 1.2 years
 63.19% / year</title>
   </rect>
-  <rect x="1993.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3070
 100 → 136 = 36 increase
 1.2 years
 24.60% / year" style="fill:rgb(0.0, 145.51426814798825, 0.0)">
@@ -2197,7 +2311,7 @@ nan% / year</title>
 1.2 years
 24.60% / year</title>
   </rect>
-  <rect x="2023.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeo RX 6800 XT
 100 → 169 = 69 increase
 1.3 years
 39.35% / year" style="fill:rgb(0.0, 175.60567896579104, 0.0)">
@@ -2206,7 +2320,7 @@ nan% / year</title>
 1.3 years
 39.35% / year</title>
   </rect>
-  <rect x="2053.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeo RX 6800
+  <rect x="2053.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeo RX 6800
 100 → 149 = 49 increase
 1.3 years
 29.91% / year" style="fill:rgb(0.0, 157.34623052040936, 0.0)">
@@ -2215,7 +2329,7 @@ nan% / year</title>
 1.3 years
 29.91% / year</title>
   </rect>
-  <rect x="2083.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3060 Ti
 100 → 117 = 17 increase
 1.4 years
 11.08% / year" style="fill:rgb(0.0, 105.778430591141, 0.0)">
@@ -2224,7 +2338,7 @@ nan% / year</title>
 1.4 years
 11.08% / year</title>
   </rect>
-  <rect x="2113.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeo RX 6900 XT
 100 → 184 = 84 increase
 1.4 years
 43.04% / year" style="fill:rgb(0.0, 182.01126588930424, 0.0)">
@@ -2233,7 +2347,7 @@ nan% / year</title>
 1.4 years
 43.04% / year</title>
   </rect>
-  <rect x="2173.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3060
 100 → 92 = -8 increase
 1.6 years
 -5.27% / year" style="fill:rgb(78.54876242340863, 0.0, 0.0)">
@@ -2242,7 +2356,7 @@ nan% / year</title>
 1.6 years
 -5.27% / year</title>
   </rect>
-  <rect x="2203.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeon RX 6700 XT
 100 → 119 = 19 increase
 1.7 years
 10.44% / year" style="fill:rgb(0.0, 103.26990000480694, 0.0)">
@@ -2251,7 +2365,7 @@ nan% / year</title>
 1.7 years
 10.44% / year</title>
   </rect>
-  <rect x="2293.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3080 Ti
 100 → 204 = 104 increase
 1.9 years
 37.20% / year" style="fill:rgb(0.0, 171.6900499461851, 0.0)">
@@ -2260,7 +2374,7 @@ nan% / year</title>
 1.9 years
 37.20% / year</title>
   </rect>
-  <rect x="2323.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → Nvidia Geforece RTX 3070 Ti
 100 → 147 = 47 increase
 1.9 years
 20.10% / year" style="fill:rgb(0.0, 134.22215121882064, 0.0)">
@@ -2269,7 +2383,16 @@ nan% / year</title>
 1.9 years
 20.10% / year</title>
   </rect>
-  <rect x="1933.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3080
+  <rect x="2383.0" y="543.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2070 Super → AMD Radeon 6600 XT
+100 → 87 = -13 increase
+2.1 years
+-6.68% / year" style="fill:rgb(86.41115509304018, 0.0, 0.0)">
+    <title>Nvidia Geforce RTX 2070 Super → AMD Radeon 6600 XT
+100 → 87 = -13 increase
+2.1 years
+-6.68% / year</title>
+  </rect>
+  <rect x="1933.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3080
 81 → 187 = 106 increase
 1.2 years
 71.71% / year" style="fill:rgb(0.0, 223.2445962704056, 0.0)">
@@ -2278,7 +2401,7 @@ nan% / year</title>
 1.2 years
 71.71% / year</title>
   </rect>
-  <rect x="1963.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3090
+  <rect x="1963.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3090
 81 → 209 = 128 increase
 1.2 years
 81.25% / year" style="fill:rgb(0.0, 234.6733336303973, 0.0)">
@@ -2287,7 +2410,7 @@ nan% / year</title>
 1.2 years
 81.25% / year</title>
   </rect>
-  <rect x="1993.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3070
 81 → 136 = 55 increase
 1.2 years
 41.46% / year" style="fill:rgb(0.0, 179.29866663678715, 0.0)">
@@ -2296,7 +2419,7 @@ nan% / year</title>
 1.2 years
 41.46% / year</title>
   </rect>
-  <rect x="2023.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeo RX 6800 XT
 81 → 169 = 88 increase
 1.3 years
 55.16% / year" style="fill:rgb(0.0, 200.99527254743433, 0.0)">
@@ -2305,7 +2428,7 @@ nan% / year</title>
 1.3 years
 55.16% / year</title>
   </rect>
-  <rect x="2053.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeo RX 6800
+  <rect x="2053.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeo RX 6800
 81 → 149 = 68 increase
 1.3 years
 45.71% / year" style="fill:rgb(0.0, 186.44612336706905, 0.0)">
@@ -2314,7 +2437,7 @@ nan% / year</title>
 1.3 years
 45.71% / year</title>
   </rect>
-  <rect x="2083.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3060 Ti
 81 → 117 = 36 increase
 1.4 years
 25.96% / year" style="fill:rgb(0.0, 148.6764795577407, 0.0)">
@@ -2323,7 +2446,7 @@ nan% / year</title>
 1.4 years
 25.96% / year</title>
   </rect>
-  <rect x="2113.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeo RX 6900 XT
 81 → 184 = 103 increase
 1.4 years
 57.92% / year" style="fill:rgb(0.0, 204.9565056048743, 0.0)">
@@ -2332,7 +2455,7 @@ nan% / year</title>
 1.4 years
 57.92% / year</title>
   </rect>
-  <rect x="2173.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3060
 81 → 92 = 11 increase
 1.6 years
 8.04% / year" style="fill:rgb(0.0, 93.0457173912227, 0.0)">
@@ -2341,7 +2464,7 @@ nan% / year</title>
 1.6 years
 8.04% / year</title>
   </rect>
-  <rect x="2203.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeon RX 6700 XT
 81 → 119 = 38 increase
 1.7 years
 23.08% / year" style="fill:rgb(0.0, 141.8528176887772, 0.0)">
@@ -2350,7 +2473,7 @@ nan% / year</title>
 1.7 years
 23.08% / year</title>
   </rect>
-  <rect x="2293.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3080 Ti
 81 → 204 = 123 increase
 1.9 years
 48.19% / year" style="fill:rgb(0.0, 190.42696143620682, 0.0)">
@@ -2359,7 +2482,7 @@ nan% / year</title>
 1.9 years
 48.19% / year</title>
   </rect>
-  <rect x="2323.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → Nvidia Geforece RTX 3070 Ti
 81 → 147 = 66 increase
 1.9 years
 31.09% / year" style="fill:rgb(0.0, 159.81414629098597, 0.0)">
@@ -2368,7 +2491,16 @@ nan% / year</title>
 1.9 years
 31.09% / year</title>
   </rect>
-  <rect x="1963.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3090
+  <rect x="2383.0" y="513.0" width="24.0" height="24.0" title="Nvidia Geforce RTX 2060 Super → AMD Radeon 6600 XT
+81 → 87 = 6 increase
+2.1 years
+3.43% / year" style="fill:rgb(0.0, 66.16972985207924, 0.0)">
+    <title>Nvidia Geforce RTX 2060 Super → AMD Radeon 6600 XT
+81 → 87 = 6 increase
+2.1 years
+3.43% / year</title>
+  </rect>
+  <rect x="1963.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3090
 187 → 209 = 22 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2377,7 +2509,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="1993.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3070
+  <rect x="1993.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3070
 187 → 136 = -51 increase
 0.1 years
 -382.14% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2386,7 +2518,7 @@ nan% / year</title>
 0.1 years
 -382.14% / year</title>
   </rect>
-  <rect x="2023.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeo RX 6800 XT
 187 → 169 = -18 increase
 0.2 years
 -60.73% / year" style="fill:rgb(208.8766445288926, 0.0, 0.0)">
@@ -2395,7 +2527,7 @@ nan% / year</title>
 0.2 years
 -60.73% / year</title>
   </rect>
-  <rect x="2053.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeo RX 6800
+  <rect x="2053.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeo RX 6800
 187 → 149 = -38 increase
 0.2 years
 -136.30% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2404,7 +2536,7 @@ nan% / year</title>
 0.2 years
 -136.30% / year</title>
   </rect>
-  <rect x="2083.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3060 Ti
 187 → 117 = -70 increase
 0.2 years
 -187.57% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2413,7 +2545,7 @@ nan% / year</title>
 0.2 years
 -187.57% / year</title>
   </rect>
-  <rect x="2113.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeo RX 6900 XT
 187 → 184 = -3 increase
 0.2 years
 -6.47% / year" style="fill:rgb(85.28622655562732, 0.0, 0.0)">
@@ -2422,7 +2554,7 @@ nan% / year</title>
 0.2 years
 -6.47% / year</title>
   </rect>
-  <rect x="2173.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3060
 187 → 92 = -95 increase
 0.4 years
 -170.24% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2431,7 +2563,7 @@ nan% / year</title>
 0.4 years
 -170.24% / year</title>
   </rect>
-  <rect x="2203.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeon RX 6700 XT
 187 → 119 = -68 increase
 0.5 years
 -90.40% / year" style="fill:rgb(244.9073590417302, 0.0, 0.0)">
@@ -2440,7 +2572,7 @@ nan% / year</title>
 0.5 years
 -90.40% / year</title>
   </rect>
-  <rect x="2293.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3080 Ti
 187 → 204 = 17 increase
 0.8 years
 11.60% / year" style="fill:rgb(0.0, 107.73233967112125, 0.0)">
@@ -2449,7 +2581,7 @@ nan% / year</title>
 0.8 years
 11.60% / year</title>
   </rect>
-  <rect x="2323.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → Nvidia Geforece RTX 3070 Ti
 187 → 147 = -40 increase
 0.8 years
 -32.09% / year" style="fill:rgb(161.84109597235837, 0.0, 0.0)">
@@ -2458,7 +2590,16 @@ nan% / year</title>
 0.8 years
 -32.09% / year</title>
   </rect>
-  <rect x="1993.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3070
+  <rect x="2383.0" y="483.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 → AMD Radeon 6600 XT
+187 → 87 = -100 increase
+0.9 years
+-83.48% / year" style="fill:rgb(237.2278661594695, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3080 → AMD Radeon 6600 XT
+187 → 87 = -100 increase
+0.9 years
+-83.48% / year</title>
+  </rect>
+  <rect x="1993.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3070
 209 → 136 = -73 increase
 0.1 years
 -515.62% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2467,7 +2608,7 @@ nan% / year</title>
 0.1 years
 -515.62% / year</title>
   </rect>
-  <rect x="2023.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeo RX 6800 XT
+  <rect x="2023.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeo RX 6800 XT
 209 → 169 = -40 increase
 0.2 years
 -127.46% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2476,7 +2617,7 @@ nan% / year</title>
 0.2 years
 -127.46% / year</title>
   </rect>
-  <rect x="2053.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeo RX 6800
+  <rect x="2053.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeo RX 6800
 209 → 149 = -60 increase
 0.2 years
 -203.03% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2485,7 +2626,7 @@ nan% / year</title>
 0.2 years
 -203.03% / year</title>
   </rect>
-  <rect x="2083.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3060 Ti
 209 → 117 = -92 increase
 0.2 years
 -232.06% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2494,7 +2635,7 @@ nan% / year</title>
 0.2 years
 -232.06% / year</title>
   </rect>
-  <rect x="2113.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeo RX 6900 XT
 209 → 184 = -25 increase
 0.2 years
 -50.96% / year" style="fill:rgb(194.72866887507305, 0.0, 0.0)">
@@ -2503,7 +2644,7 @@ nan% / year</title>
 0.2 years
 -50.96% / year</title>
   </rect>
-  <rect x="2173.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3060
 209 → 92 = -117 increase
 0.4 years
 -196.93% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2512,7 +2653,7 @@ nan% / year</title>
 0.4 years
 -196.93% / year</title>
   </rect>
-  <rect x="2203.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeon RX 6700 XT
 209 → 119 = -90 increase
 0.5 years
 -112.64% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2521,7 +2662,7 @@ nan% / year</title>
 0.5 years
 -112.64% / year</title>
   </rect>
-  <rect x="2293.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3080 Ti
 209 → 204 = -5 increase
 0.8 years
 -3.23% / year" style="fill:rgb(64.58685569212334, 0.0, 0.0)">
@@ -2530,7 +2671,7 @@ nan% / year</title>
 0.8 years
 -3.23% / year</title>
   </rect>
-  <rect x="2323.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → Nvidia Geforece RTX 3070 Ti
 209 → 147 = -62 increase
 0.8 years
 -46.92% / year" style="fill:rgb(188.40143390376195, 0.0, 0.0)">
@@ -2539,7 +2680,16 @@ nan% / year</title>
 0.8 years
 -46.92% / year</title>
   </rect>
-  <rect x="2023.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeo RX 6800 XT
+  <rect x="2383.0" y="453.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3090 → AMD Radeon 6600 XT
+209 → 87 = -122 increase
+0.9 years
+-95.61% / year" style="fill:rgb(250.4619354892792, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3090 → AMD Radeon 6600 XT
+209 → 87 = -122 increase
+0.9 years
+-95.61% / year</title>
+  </rect>
+  <rect x="2023.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeo RX 6800 XT
 136 → 169 = 33 increase
 0.1 years
 260.69% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2548,7 +2698,7 @@ nan% / year</title>
 0.1 years
 260.69% / year</title>
   </rect>
-  <rect x="2053.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeo RX 6800
+  <rect x="2053.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeo RX 6800
 136 → 149 = 13 increase
 0.1 years
 109.55% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2557,7 +2707,7 @@ nan% / year</title>
 0.1 years
 109.55% / year</title>
   </rect>
-  <rect x="2083.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3060 Ti
 136 → 117 = -19 increase
 0.2 years
 -90.29% / year" style="fill:rgb(244.78978528547944, 0.0, 0.0)">
@@ -2566,7 +2716,7 @@ nan% / year</title>
 0.2 years
 -90.29% / year</title>
   </rect>
-  <rect x="2113.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeo RX 6900 XT
 136 → 184 = 48 increase
 0.2 years
 181.37% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2575,7 +2725,7 @@ nan% / year</title>
 0.2 years
 181.37% / year</title>
   </rect>
-  <rect x="2173.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3060
 136 → 92 = -44 increase
 0.3 years
 -117.26% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2584,7 +2734,7 @@ nan% / year</title>
 0.3 years
 -117.26% / year</title>
   </rect>
-  <rect x="2203.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeon RX 6700 XT
 136 → 119 = -17 increase
 0.4 years
 -32.05% / year" style="fill:rgb(161.75511712355072, 0.0, 0.0)">
@@ -2593,7 +2743,7 @@ nan% / year</title>
 0.4 years
 -32.05% / year</title>
   </rect>
-  <rect x="2293.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3080 Ti
 136 → 204 = 68 increase
 0.7 years
 60.82% / year" style="fill:rgb(0.0, 209.00567529434687, 0.0)">
@@ -2602,7 +2752,7 @@ nan% / year</title>
 0.7 years
 60.82% / year</title>
   </rect>
-  <rect x="2323.0" y="393.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → Nvidia Geforece RTX 3070 Ti
 136 → 147 = 11 increase
 0.7 years
 11.67% / year" style="fill:rgb(0.0, 107.97388423607455, 0.0)">
@@ -2611,7 +2761,16 @@ nan% / year</title>
 0.7 years
 11.67% / year</title>
   </rect>
-  <rect x="2053.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeo RX 6800
+  <rect x="2383.0" y="423.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 → AMD Radeon 6600 XT
+136 → 87 = -49 increase
+0.8 years
+-53.61% / year" style="fill:rgb(198.71801768498491, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3070 → AMD Radeon 6600 XT
+136 → 87 = -49 increase
+0.8 years
+-53.61% / year</title>
+  </rect>
+  <rect x="2053.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeo RX 6800
 169 → 149 = -20 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2620,7 +2779,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="2083.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3060 Ti
+  <rect x="2083.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3060 Ti
 169 → 117 = -52 increase
 0.1 years
 -441.27% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2629,7 +2788,7 @@ nan% / year</title>
 0.1 years
 -441.27% / year</title>
   </rect>
-  <rect x="2113.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeo RX 6900 XT
 169 → 184 = 15 increase
 0.1 years
 102.04% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2638,7 +2797,7 @@ nan% / year</title>
 0.1 years
 102.04% / year</title>
   </rect>
-  <rect x="2173.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3060
 169 → 92 = -77 increase
 0.2 years
 -243.24% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2647,7 +2806,7 @@ nan% / year</title>
 0.2 years
 -243.24% / year</title>
   </rect>
-  <rect x="2203.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeon RX 6700 XT
 169 → 119 = -50 increase
 0.3 years
 -105.23% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2656,7 +2815,7 @@ nan% / year</title>
 0.3 years
 -105.23% / year</title>
   </rect>
-  <rect x="2293.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3080 Ti
 169 → 204 = 35 increase
 0.6 years
 32.27% / year" style="fill:rgb(0.0, 162.19630296378367, 0.0)">
@@ -2665,7 +2824,7 @@ nan% / year</title>
 0.6 years
 32.27% / year</title>
   </rect>
-  <rect x="2323.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → Nvidia Geforece RTX 3070 Ti
 169 → 147 = -22 increase
 0.6 years
 -23.91% / year" style="fill:rgb(143.866924800201, 0.0, 0.0)">
@@ -2674,7 +2833,16 @@ nan% / year</title>
 0.6 years
 -23.91% / year</title>
   </rect>
-  <rect x="2083.0" y="333.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3060 Ti
+  <rect x="2383.0" y="393.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 XT → AMD Radeon 6600 XT
+169 → 87 = -82 increase
+0.8 years
+-88.53% / year" style="fill:rgb(242.87367626215, 0.0, 0.0)">
+    <title>AMD Radeo RX 6800 XT → AMD Radeon 6600 XT
+169 → 87 = -82 increase
+0.8 years
+-88.53% / year</title>
+  </rect>
+  <rect x="2083.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3060 Ti
 149 → 117 = -32 increase
 0.1 years
 -290.13% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2683,7 +2851,7 @@ nan% / year</title>
 0.1 years
 -290.13% / year</title>
   </rect>
-  <rect x="2113.0" y="333.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → AMD Radeo RX 6900 XT
+  <rect x="2113.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → AMD Radeo RX 6900 XT
 149 → 184 = 35 increase
 0.1 years
 253.19% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2692,7 +2860,7 @@ nan% / year</title>
 0.1 years
 253.19% / year</title>
   </rect>
-  <rect x="2173.0" y="333.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3060
 149 → 92 = -57 increase
 0.2 years
 -192.86% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2701,7 +2869,7 @@ nan% / year</title>
 0.2 years
 -192.86% / year</title>
   </rect>
-  <rect x="2203.0" y="333.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → AMD Radeon RX 6700 XT
 149 → 119 = -30 increase
 0.3 years
 -67.45% / year" style="fill:rgb(217.83358210265618, 0.0, 0.0)">
@@ -2710,7 +2878,7 @@ nan% / year</title>
 0.3 years
 -67.45% / year</title>
   </rect>
-  <rect x="2293.0" y="333.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3080 Ti
 149 → 204 = 55 increase
 0.6 years
 53.86% / year" style="fill:rgb(0.0, 199.08630526799428, 0.0)">
@@ -2719,7 +2887,7 @@ nan% / year</title>
 0.6 years
 53.86% / year</title>
   </rect>
-  <rect x="2323.0" y="333.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → Nvidia Geforece RTX 3070 Ti
 149 → 147 = -2 increase
 0.6 years
 -2.32% / year" style="fill:rgb(56.55661633531485, 0.0, 0.0)">
@@ -2728,7 +2896,16 @@ nan% / year</title>
 0.6 years
 -2.32% / year</title>
   </rect>
-  <rect x="2113.0" y="303.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → AMD Radeo RX 6900 XT
+  <rect x="2383.0" y="363.0" width="24.0" height="24.0" title="AMD Radeo RX 6800 → AMD Radeon 6600 XT
+149 → 87 = -62 increase
+0.8 years
+-71.74% / year" style="fill:rgb(223.27542021986184, 0.0, 0.0)">
+    <title>AMD Radeo RX 6800 → AMD Radeon 6600 XT
+149 → 87 = -62 increase
+0.8 years
+-71.74% / year</title>
+  </rect>
+  <rect x="2113.0" y="333.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → AMD Radeo RX 6900 XT
 117 → 184 = 67 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2737,7 +2914,7 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 0.0 years
 nan% / year</title>
   </rect>
-  <rect x="2173.0" y="303.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → Nvidia Geforece RTX 3060
+  <rect x="2173.0" y="333.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → Nvidia Geforece RTX 3060
 117 → 92 = -25 increase
 0.2 years
 -144.23% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2746,7 +2923,7 @@ nan% / year</title>
 0.2 years
 -144.23% / year</title>
   </rect>
-  <rect x="2203.0" y="303.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="333.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → AMD Radeon RX 6700 XT
 117 → 119 = 2 increase
 0.2 years
 6.78% / year" style="fill:rgb(0.0, 86.90155168836263, 0.0)">
@@ -2755,7 +2932,7 @@ nan% / year</title>
 0.2 years
 6.78% / year</title>
   </rect>
-  <rect x="2293.0" y="303.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="333.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → Nvidia Geforece RTX 3080 Ti
 117 → 204 = 87 increase
 0.5 years
 111.19% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2764,7 +2941,7 @@ nan% / year</title>
 0.5 years
 111.19% / year</title>
   </rect>
-  <rect x="2323.0" y="303.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="333.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → Nvidia Geforece RTX 3070 Ti
 117 → 147 = 30 increase
 0.5 years
 45.65% / year" style="fill:rgb(0.0, 186.34728856305387, 0.0)">
@@ -2773,7 +2950,16 @@ nan% / year</title>
 0.5 years
 45.65% / year</title>
   </rect>
-  <rect x="2173.0" y="273.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → Nvidia Geforece RTX 3060
+  <rect x="2383.0" y="333.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 Ti → AMD Radeon 6600 XT
+117 → 87 = -30 increase
+0.7 years
+-44.44% / year" style="fill:rgb(184.35261477781492, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3060 Ti → AMD Radeon 6600 XT
+117 → 87 = -30 increase
+0.7 years
+-44.44% / year</title>
+  </rect>
+  <rect x="2173.0" y="303.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → Nvidia Geforece RTX 3060
 184 → 92 = -92 increase
 0.2 years
 -415.89% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2782,7 +2968,7 @@ nan% / year</title>
 0.2 years
 -415.89% / year</title>
   </rect>
-  <rect x="2203.0" y="273.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → AMD Radeon RX 6700 XT
+  <rect x="2203.0" y="303.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → AMD Radeon RX 6700 XT
 184 → 119 = -65 increase
 0.2 years
 -174.32% / year" style="fill:rgb(255.0, 0.0, 0.0)">
@@ -2791,7 +2977,7 @@ nan% / year</title>
 0.2 years
 -174.32% / year</title>
   </rect>
-  <rect x="2293.0" y="273.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="303.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → Nvidia Geforece RTX 3080 Ti
 184 → 204 = 20 increase
 0.5 years
 20.64% / year" style="fill:rgb(0.0, 135.64304179103976, 0.0)">
@@ -2800,7 +2986,7 @@ nan% / year</title>
 0.5 years
 20.64% / year</title>
   </rect>
-  <rect x="2323.0" y="273.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="303.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → Nvidia Geforece RTX 3070 Ti
 184 → 147 = -37 increase
 0.5 years
 -44.90% / year" style="fill:rgb(185.11481204089785, 0.0, 0.0)">
@@ -2809,7 +2995,16 @@ nan% / year</title>
 0.5 years
 -44.90% / year</title>
   </rect>
-  <rect x="2203.0" y="243.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → AMD Radeon RX 6700 XT
+  <rect x="2383.0" y="303.0" width="24.0" height="24.0" title="AMD Radeo RX 6900 XT → AMD Radeon 6600 XT
+184 → 87 = -97 increase
+0.7 years
+-112.35% / year" style="fill:rgb(255.0, 0.0, 0.0)">
+    <title>AMD Radeo RX 6900 XT → AMD Radeon 6600 XT
+184 → 87 = -97 increase
+0.7 years
+-112.35% / year</title>
+  </rect>
+  <rect x="2203.0" y="273.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → AMD Radeon RX 6700 XT
 92 → 119 = 27 increase
 0.1 years
 308.80% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2818,7 +3013,7 @@ nan% / year</title>
 0.1 years
 308.80% / year</title>
   </rect>
-  <rect x="2293.0" y="243.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → Nvidia Geforece RTX 3080 Ti
+  <rect x="2293.0" y="273.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → Nvidia Geforece RTX 3080 Ti
 92 → 204 = 112 increase
 0.3 years
 238.90% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2827,7 +3022,7 @@ nan% / year</title>
 0.3 years
 238.90% / year</title>
   </rect>
-  <rect x="2323.0" y="243.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="273.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → Nvidia Geforece RTX 3070 Ti
 92 → 147 = 55 increase
 0.3 years
 140.59% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2836,7 +3031,16 @@ nan% / year</title>
 0.3 years
 140.59% / year</title>
   </rect>
-  <rect x="2293.0" y="213.0" width="24.0" height="24.0" title="AMD Radeon RX 6700 XT → Nvidia Geforece RTX 3080 Ti
+  <rect x="2383.0" y="273.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3060 → AMD Radeon 6600 XT
+92 → 87 = -5 increase
+0.5 years
+-11.18% / year" style="fill:rgb(106.13439844047724, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3060 → AMD Radeon 6600 XT
+92 → 87 = -5 increase
+0.5 years
+-11.18% / year</title>
+  </rect>
+  <rect x="2293.0" y="243.0" width="24.0" height="24.0" title="AMD Radeon RX 6700 XT → Nvidia Geforece RTX 3080 Ti
 119 → 204 = 85 increase
 0.2 years
 215.60% / year" style="fill:rgb(0.0, 255.0, 0.0)">
@@ -2845,7 +3049,7 @@ nan% / year</title>
 0.2 years
 215.60% / year</title>
   </rect>
-  <rect x="2323.0" y="213.0" width="24.0" height="24.0" title="AMD Radeon RX 6700 XT → Nvidia Geforece RTX 3070 Ti
+  <rect x="2323.0" y="243.0" width="24.0" height="24.0" title="AMD Radeon RX 6700 XT → Nvidia Geforece RTX 3070 Ti
 119 → 147 = 28 increase
 0.2 years
 84.52% / year" style="fill:rgb(0.0, 238.41383403921247, 0.0)">
@@ -2854,7 +3058,16 @@ nan% / year</title>
 0.2 years
 84.52% / year</title>
   </rect>
-  <rect x="2323.0" y="183.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 Ti → Nvidia Geforece RTX 3070 Ti
+  <rect x="2383.0" y="243.0" width="24.0" height="24.0" title="AMD Radeon RX 6700 XT → AMD Radeon 6600 XT
+119 → 87 = -32 increase
+0.4 years
+-75.17% / year" style="fill:rgb(227.4897878913097, 0.0, 0.0)">
+    <title>AMD Radeon RX 6700 XT → AMD Radeon 6600 XT
+119 → 87 = -32 increase
+0.4 years
+-75.17% / year</title>
+  </rect>
+  <rect x="2323.0" y="213.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 Ti → Nvidia Geforece RTX 3070 Ti
 204 → 147 = -57 increase
 0.0 years
 nan% / year" style="fill:rgb(127, 127, 127)">
@@ -2862,5 +3075,23 @@ nan% / year" style="fill:rgb(127, 127, 127)">
 204 → 147 = -57 increase
 0.0 years
 nan% / year</title>
+  </rect>
+  <rect x="2383.0" y="213.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3080 Ti → AMD Radeon 6600 XT
+204 → 87 = -117 increase
+0.2 years
+-511.33% / year" style="fill:rgb(255.0, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3080 Ti → AMD Radeon 6600 XT
+204 → 87 = -117 increase
+0.2 years
+-511.33% / year</title>
+  </rect>
+  <rect x="2383.0" y="183.0" width="24.0" height="24.0" title="Nvidia Geforece RTX 3070 Ti → AMD Radeon 6600 XT
+147 → 87 = -60 increase
+0.2 years
+-314.71% / year" style="fill:rgb(255.0, 0.0, 0.0)">
+    <title>Nvidia Geforece RTX 3070 Ti → AMD Radeon 6600 XT
+147 → 87 = -60 increase
+0.2 years
+-314.71% / year</title>
   </rect>
 </svg>
