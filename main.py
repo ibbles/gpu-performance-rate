@@ -51,6 +51,7 @@ GPUs released that month.
 from types import SimpleNamespace
 from functools import reduce
 
+from os import getcwd
 
 import gpus
 import svg_writer
@@ -188,4 +189,4 @@ if __name__ == "__main__":
     assign_gpu_to_row(state)
 
     svg_writer.write_image(state, "gpus.svg")
-    print(f"{__name__} done.")
+    print(f"Result written to {getcwd()}/gpus.svg.")
